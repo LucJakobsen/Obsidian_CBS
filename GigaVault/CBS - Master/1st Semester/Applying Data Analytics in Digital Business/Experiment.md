@@ -1,6 +1,7 @@
 An experiment is a single test (or series of test-runs) of an activity under control by the researcher, where one or more [[Variable|variables]] are manipulated to observe the effect on another variable - while also accounting for [[Extraneous Variable|extraneous variables]] and [[Confounding Variable|confounding variables]].
 
 I.e. it is a method used to study [[Causation]].
+- A measure used estimating the causal effect could e.g. the [[Average Treatment Effect (ATE)]]
 
 In an experiment, the goal is to isolate the [[Independent Variable|independent variable]] and determine its effect on the [[Dependent Variable|dependent variable]]. 
 
