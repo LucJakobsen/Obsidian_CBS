@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal Validity.md",
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internal Validity.md",
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internal Validity.md",
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internal Validity.md"
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md"
               }
             }
           },
@@ -167,24 +167,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fda6b7fbb4fde02a",
+  "active": "0df33a855a6f9022",
   "lastOpenFiles": [
-    "Variable.md",
-    "TEMP_NOTE.md",
-    "Internal Validity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Average Treatment Effect (ATE).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimentation.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Causation.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Chi-squared Test.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Extraneous Variable.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dependent Variable.md",
+    "Statistical Power.md",
+    "Full Factorial Design.md",
+    "Type 1 Error.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
+    "Interaction Effects.md",
+    "Internal Validity.md",
+    "P-value.md",
+    "Lab Experiment.md",
+    "Field Experiment.md",
+    "NEEDS COMPLETING/External Validity.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimentation.md",
+    "CBS - Master/Images/Pasted image 20230319181727.png",
+    "Type 2 Error.md",
+    "Significance Level.md",
+    "T-test.md",
+    "OLS Regression.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Sample.md",
+    "NEEDS COMPLETING/Sampling.md",
+    "ANOVA.md",
+    "Confidence Interval.md",
+    "F-statistic.md",
+    "Fractional Fractorial Design.md",
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression.md",
+    "CBS - Master/Images/Pasted image 20230319174827.png",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Independent Variable.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dummy Variables.md",
+    "Variable.md",
     "CBS - Master/Images/Pasted image 20230314085529.png",
     "CBS - Master/Images/Pasted image 20230314091448.png",
     "CBS - Master/Images/Pasted image 20230314091916.png",
@@ -192,20 +204,8 @@
     "CBS - Master/Images/Pasted image 20230314090403.png",
     "CBS - Master/Images/Pasted image 20230314085658.png",
     "CBS - Master/Images/Pasted image 20230313214637.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Measurement.md",
-    "NEEDS COMPLETING/Construct Validity.md",
-    "NEEDS COMPLETING/Validity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Correlation Coefficient.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Correlation.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Criterion-based Validity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Response Error.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Construct.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Structural Equation Modeling (SEM).md",
-    "NEEDS COMPLETING/Nomological Validity.md",
     "CBS - Master/Images/Pasted image 20230306202919.png",
-    "CBS - Master/Images/Pasted image 20230306202753.png",
     "NEEDS COMPLETING",
-    "CBS - Master/Images/Pasted image 20230306195123.png",
     "Untitled.canvas",
     "CBS - Master/Images",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business",

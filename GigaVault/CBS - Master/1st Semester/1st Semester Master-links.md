@@ -26,6 +26,13 @@ Lecture 5 focused on [[Experiment|experiments]], both how to conduct them and ho
 [[Causation]]
 [[Correlation]]
 
+#### Lecture 6
+Lecture 6 focused on how to design and analyze experiments with multiple factors, and the power of our experiments
+[[Full Factorial Design]]
+[[ANOVA]]
+[[Type 1 Error]]
+[[Type 2 Error]]
+[[Statistical Power]]
 
 
 ## Understanding and Regulating Data-driven Business Models
