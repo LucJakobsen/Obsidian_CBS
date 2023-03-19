@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dependent Variable.md",
+                "file": "Between-subject Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dependent Variable.md",
+                "file": "Between-subject Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dependent Variable.md"
+                "file": "Between-subject Experiment.md"
               }
             }
           },
@@ -179,14 +179,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c537f61b33cbc6ce",
+  "active": "218bc1826cde178d",
   "lastOpenFiles": [
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
+    "Between-subject Experiment.md",
+    "Dependent Variable.md",
     "Experiment.md",
     "Experimentation.md",
     "Extraneous Variable.md",
-    "Between-subject Experiment.md",
     "Confounding Variable.md",
-    "Dependent Variable.md",
     "TEMP_NOTE.md",
     "Pasted image 20230314091916.png",
     "Pasted image 20230314091448.png",
@@ -196,7 +197,6 @@
     "Pasted image 20230314085529.png",
     "Independent Variable.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
     "Within-subject Experiment.md",
     "CBS - Master/Images/Pasted image 20230313214637.png",
     "Average Treatment Effect (ATE).md",
