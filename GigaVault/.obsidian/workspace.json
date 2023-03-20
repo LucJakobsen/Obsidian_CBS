@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4736284a64475f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPERIMENT_WORKSHOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
+                "file": "EXPERIMENT_WORKSHOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
+                "file": "EXPERIMENT_WORKSHOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/1st Semester/1st Semester Master-links.md"
+                "file": "EXPERIMENT_WORKSHOP.md"
               }
             }
           },
@@ -167,13 +179,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0df33a855a6f9022",
+  "active": "4736284a64475f8a",
   "lastOpenFiles": [
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
+    "EXPERIMENT_WORKSHOP.md",
     "Statistical Power.md",
     "Full Factorial Design.md",
     "Type 1 Error.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
     "Interaction Effects.md",
     "Internal Validity.md",
     "P-value.md",
@@ -194,9 +209,6 @@
     "Fractional Fractorial Design.md",
     "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression.md",
     "CBS - Master/Images/Pasted image 20230319174827.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Independent Variable.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dummy Variables.md",
-    "Variable.md",
     "CBS - Master/Images/Pasted image 20230314085529.png",
     "CBS - Master/Images/Pasted image 20230314091448.png",
     "CBS - Master/Images/Pasted image 20230314091916.png",
