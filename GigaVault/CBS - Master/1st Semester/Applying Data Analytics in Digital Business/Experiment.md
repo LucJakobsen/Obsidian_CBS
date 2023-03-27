@@ -12,7 +12,7 @@ Experiments can either be [[Within-subject Experiment|within-subject]] or [[Betw
 Experiments can be designed in different ways, for example it can follow a [[Full Factorial Design]] or a [[Fractional Fractorial Design]].
 
 
-Furthermore, experiments can be either [[Lab Experiment]] or a [[Field Experiment]].
+Furthermore, experiments can be either [[Lab Experiment]] or a [[Field Experiment]]. However, they can also be a [[Scenario-based Lab Experiment]]
 
 ### Guidelines for Designing an Experiment
 1. Recognition & Statement of Problem
@@ -23,11 +23,13 @@ Furthermore, experiments can be either [[Lab Experiment]] or a [[Field Experimen
 	- Determine the independent variables or factors that will be manipulated in the experiment, along with the levels or ranges of these variables.
 4. Choice of Experimental Design
 	- Select an appropriate experimental design that allows for proper control of extraneous variables and minimizes potential sources of bias, such as randomization or blinding.
-5. Performing the Experiment
+		- Choose [[Within-subject Experiment]] or [[Between-subject Experiment]]
+1. Performing the Experiment
 	- Conduct the experiment and collect the necessary data.
-6. Statistical Analysis of the Data
+		- Avoid [[Confounding Procedures]]
+1. Statistical Analysis of the Data
 	- Analyze the data using appropriate statistical methods to test the hypothesis and assess the significance of the results.
-7. Drawing Conclusions, Recommendations
+2. Drawing Conclusions, Recommendations
 	- Based on the results of the experiment, draw conclusions and make recommendations for future research or practical applications.
 
 

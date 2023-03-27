@@ -33,7 +33,13 @@ Lecture 6 focused on how to design and analyze experiments with multiple factors
 [[Type 1 Error]]
 [[Type 2 Error]]
 [[Statistical Power]]
+[[EXPERIMENT_WORKSHOP]]
 
+#### Lecture 7
+Lecture 7 focused on between- and within-subject experiments and their design, as well as the challenges in experimentation - focusing on confounding elements
+[[Between-subject Experiment]]
+[[Within-subject Experiment]]
+[[Confounding Procedures]]
 
 ## Understanding and Regulating Data-driven Business Models
 #### Lecture 1

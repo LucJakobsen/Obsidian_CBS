@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f607b4d79e63a15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0df33a855a6f9022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4736284a64475f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXPERIMENT_WORKSHOP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,11 +81,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXPERIMENT_WORKSHOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXPERIMENT_WORKSHOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EXPERIMENT_WORKSHOP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,44 +146,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4736284a64475f8a",
+  "active": "0df33a855a6f9022",
   "lastOpenFiles": [
-    "Pasted image 20230320114852.png",
-    "Pasted image 20230320113917.png",
-    "Pasted image 20230320113445.png",
-    "Pasted image 20230320113159.png",
-    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression.md",
-    "Full Factorial Design.md",
-    "ANOVA.md",
-    "Interaction Effects.md",
     "EXPERIMENT_WORKSHOP.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
-    "Statistical Power.md",
-    "Type 1 Error.md",
-    "Internal Validity.md",
-    "P-value.md",
-    "Lab Experiment.md",
-    "Field Experiment.md",
-    "NEEDS COMPLETING/External Validity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimentation.md",
-    "CBS - Master/Images/Pasted image 20230319181727.png",
-    "Type 2 Error.md",
-    "Significance Level.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Scenario-based Lab Experiment.md",
+    "Variable.md",
+    "TEMP_NOTE.md",
     "T-test.md",
+    "Significance Level.md",
+    "P-value.md",
     "OLS Regression.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Sample.md",
-    "NEEDS COMPLETING/Sampling.md",
+    "Internal Validity.md",
+    "Fractional Fractorial Design.md",
     "Confidence Interval.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
+    "Scenario-based Lab Experiment/Vignette Study.md",
+    "Scenario-based Lab Experiment",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimentation.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Carry-over Effect.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Demand Characteristics.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimenter Effect.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Response Bias.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Hawthorne Effect.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
+    "NEEDS COMPLETING/Social Desirability Bias.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Extraneous Variable.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Causation.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
+    "CBS - Master/Images/Pasted image 20230327190558.png",
+    "CBS - Master/Images/Pasted image 20230327190542.png",
+    "CBS - Master/Images/Pasted image 20230320113159.png",
+    "CBS - Master/Images/Pasted image 20230320113445.png",
+    "CBS - Master/Images/Pasted image 20230320113917.png",
+    "CBS - Master/Images/Pasted image 20230320114852.png",
+    "CBS - Master/Images/Pasted image 20230319181727.png",
     "CBS - Master/Images/Pasted image 20230319174827.png",
     "CBS - Master/Images/Pasted image 20230314085529.png",
     "CBS - Master/Images/Pasted image 20230314091448.png",
-    "CBS - Master/Images/Pasted image 20230314091916.png",
-    "CBS - Master/Images/Pasted image 20230314090425.png",
-    "CBS - Master/Images/Pasted image 20230314090403.png",
     "NEEDS COMPLETING",
     "Untitled.canvas",
     "CBS - Master/Images",

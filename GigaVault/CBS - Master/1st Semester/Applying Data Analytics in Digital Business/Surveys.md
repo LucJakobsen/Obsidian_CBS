@@ -1,12 +1,12 @@
 Surveys are research instruments used to collect data from a [[Population|population]] or [[Sample|sample]] of people. 
 The purpose of a survey is to gather information about a particular [[Construct|construct]], by examining the construct's various [[Properties|properties]].
 - It's about trying to explain and find patterns in reality based on collected data
+- Helps you measure variables you can't directly measure (constructs)
 
 
 Surveys can be conducted using a variety of methods, also known as [[Survey Modes|survey modes]].
 
 The success of survey research depends on how close the answers that people give to survey questions match how people think and act in reality. 
-
 
 
 #### Survey Design

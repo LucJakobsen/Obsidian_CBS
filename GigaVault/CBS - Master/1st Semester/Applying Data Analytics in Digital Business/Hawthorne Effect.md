@@ -1,0 +1,3 @@
+The Hawthorne Effect is a type of [[Bias]] which refers to the tendency of study participants to modify their behavior or performance simply because they are being studied, rather than in response to the independent variable being studied. 
+
+The Hawthorne effect is a specific type of [[Demand Characteristics|demand characteristic]] that can affect the [[Internal Validity|internal validity]] of an [[Experiment|experiment]].
