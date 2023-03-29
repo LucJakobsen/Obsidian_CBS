@@ -11,11 +11,28 @@
             "id": "0df33a855a6f9022",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61e3acb54e189dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md"
+              }
             }
           },
           {
@@ -146,10 +167,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0df33a855a6f9022",
+  "active": "61e3acb54e189dc0",
   "lastOpenFiles": [
-    "EXPERIMENT_WORKSHOP.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
+    "EXPERIMENT_WORKSHOP.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Scenario-based Lab Experiment.md",
     "Variable.md",
     "TEMP_NOTE.md",
@@ -160,8 +185,6 @@
     "Internal Validity.md",
     "Fractional Fractorial Design.md",
     "Confidence Interval.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
     "Scenario-based Lab Experiment/Vignette Study.md",
     "Scenario-based Lab Experiment",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimentation.md",
@@ -173,8 +196,6 @@
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
     "NEEDS COMPLETING/Social Desirability Bias.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Extraneous Variable.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Causation.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
     "CBS - Master/Images/Pasted image 20230327190558.png",
     "CBS - Master/Images/Pasted image 20230327190542.png",
     "CBS - Master/Images/Pasted image 20230320113159.png",

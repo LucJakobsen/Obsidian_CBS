@@ -1,8 +1,8 @@
-Within-subject Experiment refers to when each participant is exposed to all levels of the [[Independent Variable|independent variable]] / treatment.
+Within-subject Experiment, is a type of [[Experiment]], which refers to when each participant is exposed to all levels of the [[Independent Variable|independent variable]] / treatment.
 - So each participant is exposed to several combinations of treatments
 
 So one particiapant tests all the different treatments and we look at which treatment was most effective
-- I.e. all the treatments are applied *within* one group
+- I.e. all the treatments are applied and their effect compared *within* one group
 
 The opposite of within-subject experiment would be a [[Between-subject Experiment]]
 

@@ -1,4 +1,4 @@
-Between-subject Experiment refers to when participants are randomly assigned to one of two or more groups, and each group is exposed to a different treatment
+Between-subject Experiment, is a type of [[Experiment]], which refers to when participants are randomly assigned to one of two or more groups, and each group is exposed to a different treatment
 - So participants are randomly allocated to only one combination of treatments
 
 So you look at the treatment´s effect *between* different groups 
