@@ -24,12 +24,12 @@ Furthermore, experiments can be either [[Lab Experiment]] or a [[Field Experimen
 4. Choice of Experimental Design
 	- Select an appropriate experimental design that allows for proper control of extraneous variables and minimizes potential sources of bias, such as randomization or blinding.
 		- Choose [[Within-subject Experiment]] or [[Between-subject Experiment]]
-1. Performing the Experiment
+5. Performing the Experiment
 	- Conduct the experiment and collect the necessary data.
 		- Avoid [[Confounding Procedures]]
-1. Statistical Analysis of the Data
+6. Statistical Analysis of the Data
 	- Analyze the data using appropriate statistical methods to test the hypothesis and assess the significance of the results.
-2. Drawing Conclusions, Recommendations
+7. Drawing Conclusions, Recommendations
 	- Based on the results of the experiment, draw conclusions and make recommendations for future research or practical applications.
 
 
