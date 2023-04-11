@@ -41,6 +41,12 @@ Lecture 7 focused on between- and within-subject experiments and their design, a
 [[Within-subject Experiment]]
 [[Confounding Procedures]]
 
+#### Lecture 8
+Lecture 8 focused on 
+[[Exploratory Data Analysis]]
+[[Predictive Analysis]]
+
+
 ## Understanding and Regulating Data-driven Business Models
 #### Lecture 1
 Lecture 1 focused on explaining just what data-driven business models are, how they operate, and what effects they may have on business, people, society, etc.

@@ -3,13 +3,17 @@
 -   ``import:`` reads data into STATA from external sources
 -   ``merge:`` combines two or more datasets into a single dataset
 -   ``generate``: creates new variables based on existing variables
+-   ``replace``: update the value of an existing variable
+-   ``egen``: provide access to other library of functions
 -   ``drop``: removes variables from a dataset
+-   ``keep``: only keeps the specified variables and removes all other
 -   ``recode``: changes the values of variables
 
 2.  <u>Descriptive Statistics Commands</u>: These commands are used to compute summary statistics and other measures of central tendency and variability. Some common descriptive statistics commands in STATA include:
 
 -   ``summarize``: computes summary statistics for variables in a dataset
 -   ``tabulate``: creates frequency tables for categorical variables
+-   ``tabstat``: creates summary statistics for a series of numeric variables
 -   ``histogram``: creates a histogram of a continuous variable
 -   ``correlation``: computes the correlation between variables
 
@@ -32,5 +36,25 @@
 -   ``xtreg``: performs panel data regression analysis
 -   ``xtsum``: computes summary statistics for panel data
 -   ``xtline``: creates a line plot of panel data
+
+### Logical Operators in STATA
+1.  1.  "==" (equal to): This operator returns true if two values are equal.
+
+2.  "!=" (not equal to): This operator returns true if two values are not equal.
+
+3.  ">" (greater than): This operator returns true if the first value is greater than the second value.
+
+4.  ">=" (greater than or equal to): This operator returns true if the first value is greater than or equal to the second value.
+
+5.  "<" (less than): This operator returns true if the first value is less than the second value.
+
+6.  "<=" (less than or equal to): This operator returns true if the first value is less than or equal to the second value.
+
+7.  "&" (and): This operator returns true if both conditions are true.
+
+8.  "|" (or): This operator returns true if at least one of the conditions is true.
+
+9.  "!" (not): This operator reverses the logical result of a condition.
+
 
 For more just ask https://chat.openai.com/ ez
