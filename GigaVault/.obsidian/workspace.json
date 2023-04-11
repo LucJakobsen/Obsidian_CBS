@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0df33a855a6f9022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "61e3acb54e189dc0",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be3f6f791f77d27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exploratory Data Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,12 +168,14 @@
   },
   "active": "61e3acb54e189dc0",
   "lastOpenFiles": [
+    "Exploratory Data Analysis.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
+    "Recap Activity.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
+    "CBS - Master/Images/Pasted image 20230411094515.png",
     "TEMP_NOTE.md",
     "EXPERIMENT_WORKSHOP.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
     "Data Cleaning.md",
-    "Exploratory Data Analysis.md",
     "Predictive Analysis.md",
     "Longitudinal dataset.md",
     "Cross-sectional Dataset.md",
@@ -193,8 +194,6 @@
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Interaction Effects.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Correlation.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Causation.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Scenario-based Lab Experiment.md",
     "Scenario-based Lab Experiment",
     "CBS - Master/Images/Pasted image 20230327190558.png",
     "CBS - Master/Images/Pasted image 20230327190542.png",
@@ -205,7 +204,6 @@
     "CBS - Master/Images/Pasted image 20230319181727.png",
     "CBS - Master/Images/Pasted image 20230319174827.png",
     "CBS - Master/Images/Pasted image 20230314085529.png",
-    "CBS - Master/Images/Pasted image 20230314091448.png",
     "NEEDS COMPLETING",
     "Untitled.canvas",
     "CBS - Master/Images",
