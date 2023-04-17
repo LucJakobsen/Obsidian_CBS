@@ -8,6 +8,8 @@
 -   ``drop``: removes variables from a dataset
 -   ``keep``: only keeps the specified variables and removes all other
 -   ``recode``: changes the values of variables
+- ``list``: will list the specific number of rows in the dataset 
+	- e.g. ``list in 1/10`` will list the first 10
 
 2.  <u>Descriptive Statistics Commands</u>: These commands are used to compute summary statistics and other measures of central tendency and variability. Some common descriptive statistics commands in STATA include:
 
@@ -23,6 +25,10 @@
 -   ``logistic``: performs logistic regression analysis
 -   ``probit``: performs probit regression analysis
 -   ``robust``: performs robust regression analysis
+
+- ``i`` or ``ib2`` etc: used for categorical variables to specificy which you want as base 
+![[Pasted image 20230417165525.png]]
+- ``vif``: shows the [[Variance Inflation Factors|VIF]] values (used after the linear regression command)
 
 4.  <u>Graphical Commands</u>: These commands are used to create various types of graphs and plots. Some common graphical commands in STATA include:
 
@@ -55,6 +61,3 @@
 8.  "|" (or): This operator returns true if at least one of the conditions is true.
 
 9.  "!" (not): This operator reverses the logical result of a condition.
-
-
-For more just ask https://chat.openai.com/ ez

@@ -1,0 +1,3 @@
+- Start with descriptive statistics
+- To find out which variables are useful (for regression). use a t-test
+- Always check for multicollinearity before doing regression

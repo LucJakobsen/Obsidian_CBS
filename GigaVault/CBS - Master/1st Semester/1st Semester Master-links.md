@@ -42,10 +42,16 @@ Lecture 7 focused on between- and within-subject experiments and their design, a
 [[Confounding Procedures]]
 
 #### Lecture 8
-Lecture 8 focused on 
+Lecture 8 focused on exploratory data and data cleaning (aka data wrangling). Futhermore, the lecture introduced the concept of predictive analysis.
 [[Exploratory Data Analysis]]
+[[Data Cleaning]]
 [[Predictive Analysis]]
 
+#### Lecture 9
+Lecture 9 focused on using OLS Regression and multi linear regression for predictive analysis. Finally it explored the idea of multicolliniearity 
+[[Predictive Analysis]]
+[[OLS Regression]]
+[[Multicollinearity]]
 
 ## Understanding and Regulating Data-driven Business Models
 #### Lecture 1
