@@ -17,6 +17,8 @@ e = error
 - Indicates that the prediction is not perfect and we try to account for it
 
 I.e. the **β**'s are the regression coefficients. They are unknown to us, but we want to estimate them
+- You interpret the coefficients by saying "1 unit change in x (e.g. original price) will mean 'coefficient number' change in y (e.g. sold price)"
+
 
 The prediction error is minimized through measurement of the residual sum of squares (RSS)
 - The smaller value of the RSS the better results
