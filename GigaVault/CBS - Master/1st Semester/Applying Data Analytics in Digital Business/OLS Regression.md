@@ -1,7 +1,11 @@
-Ordinal Least Squares (OLS) Regression is a statistical method that estimates the relationship between one or more [[Independent Variable|independent variables]] and a [[Dependent Variable|dependent variable]].
+Ordinal Least Squares (OLS) Regression is a [[Regression]] method that estimates the relationship between one or more [[Independent Variable|independent variables]] and a [[Dependent Variable|dependent variable]].
 
 It tries to answer the question: "What is the relationship between variable x and variable y"
 - The relationship is assumed to be linear
+
+Linear regression is all about predicting a continuous [[Dependent Variable]].
+- Unlike [[Logistic Regression]] which is about predicting a [[Dummy Variables]]
+
 
 The [[P-value]] will indicate whether a variable is useful for the prediction or not
 

@@ -23,6 +23,9 @@
 
 -   ``regress``: performs linear regression analysis
 -   ``logistic``: performs logistic regression analysis
+	- Use ``.or`` to get logistic odds
+	![[Pasted image 20230424190517.png]]
+	
 -   ``probit``: performs probit regression analysis
 -   ``robust``: performs robust regression analysis
 

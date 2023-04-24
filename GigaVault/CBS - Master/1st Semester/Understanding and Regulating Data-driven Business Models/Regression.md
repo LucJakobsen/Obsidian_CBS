@@ -19,3 +19,5 @@ When you perform regression, you make an estimation of the actual coefficients
 
 
 Regression can also be used to measure [[Interaction Effects]], more specifically you can use [[OLS Regression]].
+
+Regression can also come in the form of [[Logistic Regression]].

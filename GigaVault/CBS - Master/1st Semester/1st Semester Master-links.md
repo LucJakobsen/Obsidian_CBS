@@ -53,6 +53,12 @@ Lecture 9 focused on using OLS Regression and multi linear regression for predic
 [[OLS Regression]]
 [[Multicollinearity]]
 
+#### Lecture 10
+Lecture 10 focused on utilizing [[Predictive Analysis]] for decision-making, more specifically through logistic regression. 
+[[Logistic Regression]]
+[[Confusion Matrix]]
+[[Area Under the ROC Curve (AUC)]]
+
 ## Understanding and Regulating Data-driven Business Models
 #### Lecture 1
 Lecture 1 focused on explaining just what data-driven business models are, how they operate, and what effects they may have on business, people, society, etc.
