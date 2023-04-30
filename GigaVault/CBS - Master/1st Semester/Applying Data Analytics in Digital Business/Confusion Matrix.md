@@ -3,6 +3,8 @@ A confusion matrix, also known as a "contingency table" or "error matrix" is a t
 It summarizes the number of true positives, true negatives, false positives, and false negatives in a binary classification model. 
 
 ![[Pasted image 20230424192402.png]]
+- Model side indicates what the model predicted e.g. Y=1 row is high default risk
+- True side indicates the actual values, e.g. default / Y=1 is high default risk
 
 **True negative** = 7963 in the above case, meaning that the model correctly predicted 7963 lenders with low risk didn't violate their contract (they didn't make a default meaning that they did pay the money)
 
@@ -11,11 +13,11 @@ It summarizes the number of true positives, true negatives, false positives, and
 **False positive** (aka [[Type 1 Error]]) = 32 in the above case, meaning that the model wrongly predicted 24 lenders with high risk that actually didn't violate their contract
 
 **False negative** (aka [[Type 2 Error]]) = 32 in the above case, meaning that the model wrongly predicted 1497 lenders with law risk that actually did violate their contract
+7919
 
 
-
-From this table, we can calculate various performance metrics such as accuracy, precision, recall, and F1-score:
-- **Accuracy** = the proportions of customers that we correctly identified (how well the model estimated the true values)
+From this table, we can calculate various performance metrics such as accuracy, recall, and fall-out:
+- **Accuracy** = the proportions of customers that we correctly identified/classified (how well the model estimated the true values)
 	![[Pasted image 20230424192517.png]]
 	- The higher the value, the better the model perfomance since better predictions
 
@@ -26,3 +28,5 @@ From this table, we can calculate various performance metrics such as accuracy, 
 - **False Positive Rate** (Aka 1-specificity or Fall-out ) = the proportion of repaid cases that we correctly identified as high-risk (so how many true negative cases were correctly identified)
 	![[Pasted image 20230424193113.png]]
 	- The lower the value, the better the model performance
+
+We use mutliple measures to better see how well the model performs
