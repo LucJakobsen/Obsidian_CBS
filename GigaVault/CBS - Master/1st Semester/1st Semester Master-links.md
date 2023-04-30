@@ -59,6 +59,13 @@ Lecture 10 focused on utilizing [[Predictive Analysis]] for decision-making, mor
 [[Confusion Matrix]]
 [[Area Under the ROC Curve (AUC)]]
 
+#### Lecture 11
+Lecture 11 focused on  
+[[Survival Analysis]]
+[[Censoring]]
+[[Kaplan-Meier Method]]
+[[Cox Regression Model]]
+
 ## Understanding and Regulating Data-driven Business Models
 #### Lecture 1
 Lecture 1 focused on explaining just what data-driven business models are, how they operate, and what effects they may have on business, people, society, etc.

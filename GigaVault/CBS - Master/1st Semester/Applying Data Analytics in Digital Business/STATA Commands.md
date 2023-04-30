@@ -33,18 +33,34 @@
 ![[Pasted image 20230417165525.png]]
 - ``vif``: shows the [[Variance Inflation Factors|VIF]] values (used after the linear regression command)
 
-4.  <u>Graphical Commands</u>: These commands are used to create various types of graphs and plots. Some common graphical commands in STATA include:
+4.  <u>Survival Analysis:</u> Commands used to perform survival analysis and command related to survival analysis:
+
+- ``stset``: used to perform survival analysis. Specify first variable for time and second for event
+	![[Pasted image 20230430100510.png]]
+- ``sts list``: calculates the cummulative survival (survival function)
+- ``stci``: gives the median survival time
+- ``sts graph``: plots the Kaplan-Meier graph / survival curve
+	- you can add ``, by()`` to show survival rate between two variables
+- ``stphplot, by()``: make a loglogplot (see [[Log-rank Test]])
+- ``sts test``: perform a log-rank test
+
+- ``stcox``: used to perform cox regression
+	- We don't need to specify the dependent variable, just the independent ones
+
+6.  <u>Graphical Commands</u>: These commands are used to create various types of graphs and plots. Some common graphical commands in STATA include:
 
 -   ``scatter``: creates a scatter plot of two variables
 -   ``line``: creates a line plot of one or more variables
 -   ``bar``: creates a bar plot of one or more variables
 -   ``box``: creates a box plot of one or more variables
 
-5.  <u>Panel Data Commands</u>: These commands are used for analyzing panel data, which is data collected over time for the same individuals or entities. Some common panel data commands in STATA include:
+7.  <u>Panel Data Commands</u>: These commands are used for analyzing panel data, which is data collected over time for the same individuals or entities. Some common panel data commands in STATA include:
 
 -   ``xtreg``: performs panel data regression analysis
 -   ``xtsum``: computes summary statistics for panel data
 -   ``xtline``: creates a line plot of panel data
+
+
 
 ### Logical Operators in STATA
 1.  1.  "==" (equal to): This operator returns true if two values are equal.
