@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c9efb240bdef1e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Multicollinearity.md",
+=======
+                "file": "Ethics.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Multicollinearity.md",
+=======
+                "file": "Ethics.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Multicollinearity.md"
+=======
+                "file": "Ethics.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -167,8 +191,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "16e28d1088164ada",
+  "active": "fda6b7fbb4fde02a",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "CBS - Master/1st Semester/1st Semester Master-links.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confusion Matrix.md",
     "Good to know for Exam.md",
@@ -192,7 +217,12 @@
     "CBS - Master/Images/Pasted image 20230424192402.png",
     "CBS - Master/Images/Pasted image 20230424190711.png",
     "CBS - Master/Images/Pasted image 20230424190517.png",
+=======
+    "CBS - Master/Images/Pasted image 20230421113344.png",
+>>>>>>> Stashed changes
     "Law Notes, TEMP.md",
+    "Ethics.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Variance Inflation Factors.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Multicollinearity.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
     "P-value.md",
@@ -205,6 +235,15 @@
     "Significance Level.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Predictive Analysis.md",
     "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression.md",
+<<<<<<< Updated upstream
+=======
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Interaction Effects.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Cross-sectional Dataset.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Data Cleaning.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Longitudinal dataset.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Exploratory Data Analysis.md",
+    "CBS - Master/Images/Pasted image 20230411094515.png",
+>>>>>>> Stashed changes
     "Scenario-based Lab Experiment",
     "NEEDS COMPLETING",
     "Untitled.canvas",
