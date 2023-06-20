@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d3207f484118ecc",
+        "id": "4007f693215a47e0",
         "type": "tabs",
         "children": [
           {
-            "id": "bf80544a7d642e2b",
+            "id": "f99cd173027306d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Kaplan-Meier Method.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,14 +60,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "1abc7596d335c747",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Kaplan-Meier Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Kaplan-Meier Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Kaplan-Meier Method.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,18 +146,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bf80544a7d642e2b",
+  "active": "fda6b7fbb4fde02a",
   "lastOpenFiles": [
-    "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Survival Analysis.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Area Under the ROC Curve (AUC).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Multicollinearity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Variance Inflation Factors.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
     "Ethic Papers - Summary.md",
     "Ethics.md",
+    "CBS - Master/1st Semester/1st Semester Master-links.md",
     "Variable.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Survival Analysis.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Log-rank Test.md",
     "Law Notes, TEMP.md",
     "Internal Validity.md",
@@ -196,7 +175,12 @@
     "CBS - Master/Images/Pasted image 20230430100725.png",
     "CBS - Master/Images/Pasted image 20230430100510.png",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dummy Variables.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
     "CBS - Master/Images/Pasted image 20230421113344.png",
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/E-commerce Directive.md",
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/E-commerce.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confusion Matrix.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Area Under the ROC Curve (AUC).md",
     "CBS - Master/Images/Pasted image 20230424194935.png",
     "CBS - Master/Images/Pasted image 20230424195010.png",
     "CBS - Master/Images/Pasted image 20230424190242.png",
