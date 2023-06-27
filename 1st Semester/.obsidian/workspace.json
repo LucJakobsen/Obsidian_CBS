@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4007f693215a47e0",
+        "id": "1bda0f4d420523d6",
         "type": "tabs",
         "children": [
           {
-            "id": "f99cd173027306d0",
+            "id": "7f4db049474372c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0176f9addad7d2f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CBS - Master/1st Semester/1st Semester Master-links.md"
+              }
             }
           },
           {
@@ -146,11 +162,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fda6b7fbb4fde02a",
+  "active": "7f4db049474372c7",
   "lastOpenFiles": [
+    "CBS - Master/1st Semester/1st Semester Master-links.md",
     "Ethic Papers - Summary.md",
     "Ethics.md",
-    "CBS - Master/1st Semester/1st Semester Master-links.md",
     "Variable.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Survival Analysis.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Log-rank Test.md",
