@@ -1,0 +1,1 @@
+Simpson's Paradox is statistical phenomenon where an association between two variables in a population emerges, disappears or reverses when the population is divided into subpopulations

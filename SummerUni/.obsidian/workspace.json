@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning for Predictive Analysis/Machine Learning.md",
+                "file": "Causal Data Science/Counterfactual Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa7fa9d6088ff302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Causal Data Science/General Notes - Causal Data Science.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning for Predictive Analysis/Machine Learning.md",
+                "file": "Causal Data Science/General Notes - Causal Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning for Predictive Analysis/Machine Learning.md",
+                "file": "Causal Data Science/General Notes - Causal Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning for Predictive Analysis/Machine Learning.md"
+                "file": "Causal Data Science/General Notes - Causal Data Science.md"
               }
             }
           }
@@ -167,15 +179,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53d2cc8aa22f2fff",
+  "active": "aa7fa9d6088ff302",
   "lastOpenFiles": [
-    "Machine Learning for Predictive Analysis/Supervised Learning.md",
-    "Machine Learning for Predictive Analysis/Machine Learning.md",
+    "Causal Data Science/Simpson's Paradox.md",
+    "Causal Data Science/Counterfactual Reasoning.md",
     "Causal Data Science/Book of Why Readings.md",
-    "Causal Data Science/1st Lecture/Counterfactual Reasoning.md",
+    "Summer Uni - Master Links.md",
+    "Causal Data Science/General Notes - Causal Data Science.md",
+    "Machine Learning for Predictive Analysis/General Notes - Machine Learning.md",
+    "Machine Learning for Predictive Analysis/Machine Learning.md",
+    "Machine Learning for Predictive Analysis/Supervised Learning.md",
     "Machine Learning for Predictive Analysis/1st Lecture",
     "Machine Learning for Predictive Analysis",
-    "Summer Uni - Master Links.md",
     "Causal Data Science/1st Lecture",
     "Causal Data Science"
   ]
