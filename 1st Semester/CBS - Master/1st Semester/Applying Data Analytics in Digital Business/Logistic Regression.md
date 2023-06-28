@@ -1,4 +1,4 @@
-Logistic Regression is a [[Regression]] and classification method. It involves [[Predictive Analysis|predicting]] a binary variable (([[Dummy Variables]])). 
+Logistic Regression is a [[CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression]] and classification method. It involves [[Predictive Analysis|predicting]] a binary variable (([[Dummy Variables]])). 
 - Unlike [[OLS Regression|linear regression]], which deals with predicting a continous [[Variable]].
 
 ***Typically:***

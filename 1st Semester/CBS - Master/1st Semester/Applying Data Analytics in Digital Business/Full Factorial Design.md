@@ -14,5 +14,5 @@ If a study is testing the effects of two factors, A and B, each with two levels 
 - [[T-test|T-tests]] can be used to test the difference of the mean outcome for a factor with two levels
 
 - For factors with more than two levels, for several factors simultaneously, or for the effect of a continuous variable, we need to use:
-	- [[Regression]]
+	- [[CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression]]
 	- [[ANOVA]]

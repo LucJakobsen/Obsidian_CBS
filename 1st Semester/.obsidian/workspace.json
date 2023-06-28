@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Criterion-based Validity.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Acquiescence Bias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e45dd7fdd4c3500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/SummerUni/Summer Uni - Master Links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Criterion-based Validity.md",
+                "file": "CBS - Master/SummerUni/Summer Uni - Master Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Criterion-based Validity.md",
+                "file": "CBS - Master/SummerUni/Summer Uni - Master Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Criterion-based Validity.md"
+                "file": "CBS - Master/SummerUni/Summer Uni - Master Links.md"
               }
             }
           },
@@ -162,51 +175,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7f4db049474372c7",
+  "active": "6e45dd7fdd4c3500",
   "lastOpenFiles": [
-    "NEEDS COMPLETING/Validity.md",
-    "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "Ethic Papers - Summary.md",
-    "Ethics.md",
-    "Variable.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Survival Analysis.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Log-rank Test.md",
-    "Law Notes, TEMP.md",
-    "Internal Validity.md",
-    "Good to know for Exam.md",
-    "Fractional Fractorial Design.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Cox Regression Model.md",
-    "CBS - Master/Images/Pasted image 20230430110743.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Hazard Ratio.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Kaplan-Meier Method.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Censoring.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confidence Interval.md",
-    "EXPERIMENT_WORKSHOP.md",
-    "Recap Activity.md",
-    "Significance Level.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Time-to-Event.md",
-    "CBS - Master/Images/Pasted image 20230430102955.png",
-    "CBS - Master/Images/Pasted image 20230430100905.png",
-    "CBS - Master/Images/Pasted image 20230430094126.png",
-    "CBS - Master/Images/Pasted image 20230430100725.png",
-    "CBS - Master/Images/Pasted image 20230430100510.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dummy Variables.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Supervised Learning.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Machine Learning.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/General Notes - Machine Learning.md",
+    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
+    "CBS - Master/SummerUni/Causal Data Science/General Notes - Causal Data Science.md",
+    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
+    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "CBS - Master/SummerUni/Causal Data Science/Simpson's Paradox.md",
+    "CBS - Master/SummerUni/Causal Data Science/Ladder of Causality.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/R-squared.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
-    "CBS - Master/Images/Pasted image 20230421113344.png",
-    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/E-commerce Directive.md",
-    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/E-commerce.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confusion Matrix.md",
-    "CBS - Master/Images/Pasted image 20230424194935.png",
-    "CBS - Master/Images/Pasted image 20230424195010.png",
-    "CBS - Master/Images/Pasted image 20230424190242.png",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Extraneous Variable.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dependent Variable.md",
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Ethic Papers - Summary.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
+    "CBS - Master/SummerUni/Images/Pasted image 20230628150935.png",
+    "CBS - Master/SummerUni/Images",
+    "CBS - Master/SummerUni/Causal Data Science/FILL OUT LATER",
+    "CBS - Master/SummerUni/Causal Data Science",
+    "CBS - Master/SummerUni",
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Ethics.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Internal Validity.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Fractional Fractorial Design.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/EXPERIMENT_WORKSHOP.md",
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Law Notes, TEMP.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/P-value.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Significance Level.md",
+    "Recap Activity.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Variable.md",
+    "CBS - Master/1st Semester/Images/Pasted image 20230430110743.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230430102955.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230430100905.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230430094126.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230430100725.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230430100510.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230421113344.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230424194935.png",
+    "CBS - Master/1st Semester/Images/Pasted image 20230424195010.png",
     "Scenario-based Lab Experiment",
     "NEEDS COMPLETING",
     "Untitled.canvas",
-    "CBS - Master/Images",
+    "CBS - Master/1st Semester/Images",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business",
-    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models",
-    "CBS - Master/1st Semester",
-    "CBS - Master"
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models"
   ]
 }

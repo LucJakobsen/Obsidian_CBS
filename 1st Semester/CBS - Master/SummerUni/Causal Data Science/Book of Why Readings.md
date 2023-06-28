@@ -27,5 +27,5 @@ The chapter also introduces us to the [[Ladder of Causality]].
 
 With the ladder in mind they explain how machines and AI with deep neural networks are still at step 1. They make associations based on their data but can't figure out things on their own - if the machine needs to act differently in a situation these reactions have to be added to it before.
 
-Experiments are used to predict the results of interventions.
+[[Experiment|Experiments]] are used to predict the results of interventions.
 
