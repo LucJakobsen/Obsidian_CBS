@@ -1,4 +1,4 @@
-The Ladder of Causality is a concept 
+The Ladder of Causality is a concept in relation to [[Causation]] about the different levels at which we can understand and interact with the world around us.
 
 A causal learner must master at least three distinct levels of cognitive ability: 
 1. seeing
@@ -12,7 +12,9 @@ A causal learner must master at least three distinct levels of cognitive ability
 	- being able to imagine why something works and what would happen if it didn't etc.
 
 These levels are the three steps of the 'Ladder of Causality'
-
+- Level one deals with the seen world
+- Level two deals with a brave new world that is seeable
+- Level three deals with a world that cannot be seen (because it contradicts what is seen)
 ![[Pasted image 20230628150935.png]]
 
 The first part of the ladder is the bread and butter of statistics. We get answers here from collected data and typically deal with [[Conditional Probability]]. 

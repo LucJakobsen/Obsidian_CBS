@@ -1,7 +1,10 @@
+#### Main Question Addressed in the Book:
+*How can machines (and people) represent causal knowledge in a way that would enable them to access the necessary information swiftly, answer questions correctly, and do it with ease, as a three-year-old child can?*
+
 ***Data do not understand causes and effects; humans do.***
 
 ### Introduction
-The first section of the book introduces the science of "[[Causal Inference]]". 
+The first section of the book introduces the science of "[[Causal Inference]]" and [[Causation]].
 
 It basically talks about the understanding behind cause and effect, and goes a bit back in time to explain how understanding what causes something and that changing the cause will alter the result has been the backbone of science and human progression. 
 
@@ -23,9 +26,16 @@ Causality helped us evolve faster. We can imagine causal relations and their con
 
 When we plan we make mental models and see how factors might influence the results (what effect do they cause).
 
+**So basically the main argument in the chapter is that our ability to imagine things have made us unique and able to develop so quickly - and machines can't do this yet**
+
 The chapter also introduces us to the [[Ladder of Causality]]. 
 
 With the ladder in mind they explain how machines and AI with deep neural networks are still at step 1. They make associations based on their data but can't figure out things on their own - if the machine needs to act differently in a situation these reactions have to be added to it before.
 
-[[Experiment|Experiments]] are used to predict the results of interventions.
+[[Experiment|Experiments]] are used to predict the results of interventions (manipulate [[Independent Variable]] to see causal effect on [[Dependent Variable]])
+
+The chapter goes on to talk about a sort of "mini" [[The Turing Test]], by trying to make a machine think about causal events related to a single story. 
+
+***<If we want our computer to understand causation, we have to teach it how to break the rules>***
+
 

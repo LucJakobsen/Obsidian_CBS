@@ -2,9 +2,15 @@
 [[Book of Why Readings]]
 #### Lecture 1
 Lecture 1 focused on introducing the idea behind ...
+[[Causal Inference]]
+[[Causation]]
 [[Simpson's Paradox]]
 [[Counterfactual Reasoning]]
-[[Causal Inference]]
+[[Ladder of Causality]]
+
+### Lecture 2
+Lecture 2 focused on ...
+[[Ladder of Causality]]
 
 
 

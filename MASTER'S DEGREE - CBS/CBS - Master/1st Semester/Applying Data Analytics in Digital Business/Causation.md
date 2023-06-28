@@ -2,6 +2,8 @@ Causation is the relationship between cause and effect.
 
 I.e. it is the relationship between an event (the cause) and a second event (the effect), where the second event is a result of the first
 
+***While probabilities encode our beliefs about a static world, causality tells us whether and how probabilities change when the world changes, be it by intervention or by act of imagination***
+
 Causation is used to explain outcomes and is typically used in [[Hypothesis Testing]]. It is often determined through [[Experimentation]]. 
 
 The role of causation is **heavily dependent** on the perspective and the role of the question asked.
