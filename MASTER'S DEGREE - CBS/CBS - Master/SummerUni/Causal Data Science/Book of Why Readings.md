@@ -38,4 +38,4 @@ The chapter goes on to talk about a sort of "mini" [[The Turing Test]], by tryin
 
 ***<If we want our computer to understand causation, we have to teach it how to break the rules>***
 
-
+Ends a bit with saying that probability is not enough, especially because of stuff like [[Confounding Variable]]s which can influence the results etc. So causation is important to understand if we really want advanced AI and machines.

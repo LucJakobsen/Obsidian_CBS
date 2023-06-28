@@ -1,7 +1,7 @@
 ## Causal Data Science for Business Decision-making
 [[Book of Why Readings]]
 #### Lecture 1
-Lecture 1 focused on introducing the idea behind ...
+Lecture 1 focused on introducing the idea behind causal inference and causality, saying it remains important as it can change the results and interpretations we can gain from data: *There are no definite answers in causal inference --> it depends on the assumptions you have bring and have*
 [[Causal Inference]]
 [[Causation]]
 [[Simpson's Paradox]]

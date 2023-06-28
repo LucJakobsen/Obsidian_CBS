@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f4db049474372c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Acquiescence Bias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e45dd7fdd4c3500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Queries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324c6a3c0083f10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Conditioning a Factor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e38a067ba493500e",
             "type": "leaf",
             "state": {
@@ -67,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,24 +176,25 @@
   },
   "active": "e38a067ba493500e",
   "lastOpenFiles": [
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
+    "CBS - Master/SummerUni/General Notes - Machine Learning.md",
+    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
+    "NEEDS COMPLETING/Do-operator.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Machine Learning.md",
     "CBS - Master/SummerUni/Causal Data Science/Ladder of Causality.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Causation.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "NEEDS COMPLETING/Do-operator.md",
     "CBS - Master/SummerUni/Causal Data Science/Conditioning a Factor.md",
     "Untitled",
     "CBS - Master/SummerUni/Causal Data Science/Queries.md",
     "CBS - Master/SummerUni/Causal Data Science/Conditional Probability.md",
-    "CBS - Master/SummerUni/Causal Data Science/General Notes - Causal Data Science.md",
-    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dependent Variable.md",
     "CBS - Master/SummerUni/Causal Data Science/Simpson's Paradox.md",
     "CBS - Master/SummerUni/Causal Data Science/The Turing Test.md",
     "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Supervised Learning.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Machine Learning.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/General Notes - Machine Learning.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/R-squared.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
@@ -245,7 +209,6 @@
     "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Ethics.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Internal Validity.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Fractional Fractorial Design.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/EXPERIMENT_WORKSHOP.md",
     "CBS - Master/1st Semester/Images/Pasted image 20230430110743.png",
     "CBS - Master/1st Semester/Images/Pasted image 20230430102955.png",
     "CBS - Master/1st Semester/Images/Pasted image 20230430100905.png",
