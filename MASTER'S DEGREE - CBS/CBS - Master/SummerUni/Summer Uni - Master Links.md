@@ -19,4 +19,6 @@ Lecture 2 focused on ...
 Lecture 1 introduced what machine learning is and how it can be used it business. Furthermore, it explained why Python was used and how to install it. Also had some general review of relevant mathematics.
 [[Machine Learning]]
 
+
 ### Lecture 2
+Lecture 2 focused on ...

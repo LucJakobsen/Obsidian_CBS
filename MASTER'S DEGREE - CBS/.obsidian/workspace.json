@@ -13,25 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/General Python Syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc0baa59c2a215bb",
+            "id": "0c7cc7979900c823",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Conditioning a Factor.md",
+                "file": "Directed Acyclic Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd9dc3c94b339fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D-Separation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f457d0464b26e76f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Functions (Python).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "104f78da880840e6",
@@ -105,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "D-Separation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "D-Separation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md"
+                "file": "D-Separation.md"
               }
             }
           },
@@ -161,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,50 +199,49 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e38a067ba493500e",
+  "active": "bd9dc3c94b339fc1",
   "lastOpenFiles": [
+    "Statistical Independence.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629153453.png",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
-    "CBS - Master/SummerUni/General Notes - Machine Learning.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
+    "D-Separation.md",
+    "Directed Acyclic Graphs.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629145337.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629152923.png",
+    "CBS - Master/1st Semester/1st Semester Master-links.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Kaplan-Meier Method.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Cox Regression Model.md",
+    "Structural Causal Models.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629143828.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629143948.png",
     "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "NEEDS COMPLETING/Do-operator.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Machine Learning.md",
-    "CBS - Master/SummerUni/Causal Data Science/Ladder of Causality.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Causation.md",
-    "CBS - Master/SummerUni/Causal Data Science/Conditioning a Factor.md",
-    "Untitled",
-    "CBS - Master/SummerUni/Causal Data Science/Queries.md",
-    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Dependent Variable.md",
-    "CBS - Master/SummerUni/Causal Data Science/Simpson's Paradox.md",
-    "CBS - Master/SummerUni/Causal Data Science/The Turing Test.md",
-    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Supervised Learning.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/R-squared.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
+    "CBS - Master/SummerUni/General Notes - Machine Learning.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Extraneous Variable.md",
-    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Ethic Papers - Summary.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Variables (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/General Python Syntax.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Dictionaries (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Functions (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Control Flow.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Collection in Python.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Structures (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Built-in Functions (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Tuples (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Reserved Words.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Slicing (Python).md",
+    "Untitled",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
     "CBS - Master/SummerUni/Images/Pasted image 20230628150935.png",
     "CBS - Master/SummerUni/Images",
     "CBS - Master/SummerUni/Causal Data Science/FILL OUT LATER",
     "CBS - Master/SummerUni/Causal Data Science",
     "CBS - Master/SummerUni",
-    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Ethics.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Internal Validity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Fractional Fractorial Design.md",
     "CBS - Master/1st Semester/Images/Pasted image 20230430110743.png",
     "CBS - Master/1st Semester/Images/Pasted image 20230430102955.png",
     "CBS - Master/1st Semester/Images/Pasted image 20230430100905.png",
     "CBS - Master/1st Semester/Images/Pasted image 20230430094126.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230430100725.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230430100510.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230421113344.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230424194935.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230424195010.png",
     "Scenario-based Lab Experiment",
     "NEEDS COMPLETING",
     "Untitled.canvas",
