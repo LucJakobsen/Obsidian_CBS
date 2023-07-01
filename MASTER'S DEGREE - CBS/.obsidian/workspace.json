@@ -13,50 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/General Python Syntax.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c7cc7979900c823",
+            "id": "bc0baa59c2a215bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directed Acyclic Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd9dc3c94b339fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D-Separation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f457d0464b26e76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Functions (Python).md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Conditioning a Factor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "residua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,11 +85,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "104f78da880840e6",
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D-Separation.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D-Separation.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D-Separation.md"
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md"
               }
             }
           },
@@ -186,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,38 +175,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bd9dc3c94b339fc1",
+  "active": "e38a067ba493500e",
   "lastOpenFiles": [
-    "Statistical Independence.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230629153453.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
-    "D-Separation.md",
-    "Directed Acyclic Graphs.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230629145337.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230629152923.png",
+    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Kaplan-Meier Method.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Cox Regression Model.md",
-    "Structural Causal Models.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230629143828.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230629143948.png",
-    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "CBS - Master/SummerUni/General Notes - Machine Learning.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Extraneous Variable.md",
     "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "Structural Causal Models.md",
+    "Statistical Independence.md",
+    "Directed Acyclic Graphs.md",
+    "D-Separation.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Variables (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/General Python Syntax.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Dictionaries (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Functions (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Control Flow.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Collection in Python.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Structures (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Built-in Functions (Python).md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Tuples (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Reserved Words.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Slicing (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Reserved Words.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Operators.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Lists (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Indexing (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/General Python Syntax.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Functions (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Dictionaries (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Structures (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Collection in Python.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Control Flow.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Built-in Functions (Python).md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629153453.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629152923.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629145337.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629143948.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230629143828.png",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
+    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
     "Untitled",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
     "CBS - Master/SummerUni/Images/Pasted image 20230628150935.png",
