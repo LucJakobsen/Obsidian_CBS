@@ -2,6 +2,10 @@ Regression is a statistical technique used to model the relationship between a [
 
 ###### It's basically the stuff where you have a scatter plot and try to fit a line that hits the most points as possible
 
+the slope of the best-fit/regression line always enjoys the same properties:
+- It equals 1 only when one quantity can predict the other precisely; 
+- it is 0 whenever the prediction is no better than a random guess
+
 When you perform regression, you make an estimation of the actual coefficients
 - Typically it's better to predict a [[Confidence Interval]] rather than a specific value
 

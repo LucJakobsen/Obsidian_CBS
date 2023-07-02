@@ -39,3 +39,26 @@ The chapter goes on to talk about a sort of "mini" [[The Turing Test]], by tryin
 ***<If we want our computer to understand causation, we have to teach it how to break the rules>***
 
 Ends a bit with saying that probability is not enough, especially because of stuff like [[Confounding Variable]]s which can influence the results etc. So causation is important to understand if we really want advanced AI and machines.
+
+### Chapter 2
+This chapter starts out with a bit of history about of how the [[Normal Distribution]] came to be, and how it is linked to the [[Central Limit Theorem]]. The historic explanation (in relation to Sir Francis Galton) then goes on to link these to the concept of [[Regression to the Mean]].
+
+This then leads to the birth of the word [[Correlation]]: "*Galton started using a new word for this kind of relationship: height and forearm length were “co-related.” Eventually, he opted for the more normal English word “correlated*"
+
+Galton continues his research on linkage between father and son genetics (e.g. height), leading to the [[CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression|Regression]] line and the finding that correlation does not mean causation. Later his disciple, Karl Pearson, created the correlation coefficient.
+
+So basically, Galton proved that regression to the mean does not require a causal explanation, and Pearson then took this and said "causality isn't needed and it can't be proved".
+
+But Pearson discovered quite a few problems as a result of removing causation: Spurious (nonsense) correlations
+- Resulting from e.g. [[Confounding Variable]]s, [[Simpson's Paradox]], 
+
+**So the chapter is essentially the history of how causality was removed from statistics**.
+
+The chapter then talks about Sewall Wright and his use of path diagrams (see [[Path Analysis]]), which basically brought causation a bit back into the field. These diagrams also include a [[Path Coefficient]].
+
+It goes on to talk about how Wright's idea was continuously brought down and challenged, but later resurfaced. Path analysis was taken and turned to [[Structural Equation Modeling (SEM)]] - but some said SEM has nothing to do with [[Causation]]. 
+
+The chapter also shortly introduces [[Bayesian Analysis]], but say that even this still doesn't fully introduce causation back to statistics. 
+
+
+

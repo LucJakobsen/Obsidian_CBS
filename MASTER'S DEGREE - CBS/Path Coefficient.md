@@ -1,0 +1,1 @@
+A path coefficient represents the amount of variability in the target variable ([[Dependent Variable]]) that is accounted for by the source variable ([[Independent Variable]]). 
