@@ -60,5 +60,24 @@ It goes on to talk about how Wright's idea was continuously brought down and cha
 
 The chapter also shortly introduces [[Bayesian Analysis]], but say that even this still doesn't fully introduce causation back to statistics. 
 
+### Chapter 3
+This chapter focuses on [[Bayesian Networks]], what they are, their current-day applications, and how they relate to [[Causation]].
 
+It starts with some of the history of Thomas Bayes (whom the networks are named after), a Reverend and math enthusiast who pondered the question: *How much evidence would it take to convince us that something we consider improbable has actually happened? When does a hypothesis cross the line from impossibility to improbability and even to probability or virtual certainty?*
+
+Bayes' paper showed that you can deduce the probability of a cause from an effect ([[Forward Probability]]). But his method ultimately was looking at how humans can assess [[Inverse Probability]]. 
+
+The chapter goes on to talk more about Bayes and [[Inverse Probability]], linking it to [[Bayes' Rule]] and [[Bayesian Networks]]. 
+
+The chapter then goes on to further explain [[Bayesian Networks]] through their relation to [[Artificial Intelligence]] and [[Neural Networks]]. Basically going a bit over a simplified version of AI history: 
+*Simplified history of AI*
+1. Looking at Expert systems to create AI
+2. Probability for AI --> leading to Bayesian networks etc.
+3. Causality for AI
+
+They then go on to explain how the links (junctions) between different nodes in the network have three basic types (when dealing with a three-node network)
+1. Chain
+2. Fork
+3. Collider
+(See [[D-Separation]])
 

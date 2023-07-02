@@ -1,6 +1,6 @@
 Conditional Probability is the degree of association between two variables. 
 
-So what is the probability of an event given another event has occured.
+So what is the probability of an event given another event has occurred.
 
 Like the probability of  a customer who has bought toothpaste to also buy dental floss: 
 ***P(floss | toothpaste)***
