@@ -1,5 +1,7 @@
 Lists are the most commonly used [[Data Structures (Python)|Data Structure]]. Think of it as a sequence of data that is enclosed in square brackets and data are separated by a comma.
 
+Lists are ordered, mutable (i.e., we can change their content without changing their identity), and allow duplicate members
+
 Each value can be accessed by calling its index value, which is done through [[Indexing (Python)]].
 If you want to access a sequence of data you can perform [[Slicing (Python)]]. 
 

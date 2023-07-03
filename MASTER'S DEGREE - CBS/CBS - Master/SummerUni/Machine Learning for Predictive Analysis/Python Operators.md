@@ -1,7 +1,12 @@
 ### Arithmetic Operators
 ``+ = addition
 ``- = substraction
-`` 
+``/ = division
+`` % = mod (modulus, meaning it returns what is left after division)
+``* = multiplication
+``// = floor division
+``** = the power of
+
 
 ### Relational Operators
 ``== True, if it is equal
