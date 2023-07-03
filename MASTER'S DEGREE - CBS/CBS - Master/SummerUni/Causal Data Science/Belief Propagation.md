@@ -3,6 +3,7 @@ Belief Propagation also known as sum-product message passing, is a message-passi
 The algorithm works by passing messages between nodes in the graph, and these messages contain information about the probability distributions of the nodes. 
 - The nodes then use these messages to update their beliefs.
 
+Essentially the network begins with a particular degree of belief in each possible statement about the nodes in the network. As new evidence is entered into the network—at any place in the network—the degrees of belief at every node, up and down the network, will change.
 
 
 So kind of like explained here:

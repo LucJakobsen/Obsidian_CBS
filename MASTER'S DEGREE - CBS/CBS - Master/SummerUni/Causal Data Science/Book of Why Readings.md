@@ -81,3 +81,21 @@ They then go on to explain how the links (junctions) between different nodes in 
 3. Collider
 (See [[D-Separation]])
 
+[[Conditional Probability Table]] is then brought up to showcase how the different nodes "listen" to each other. 
+
+The chapter then goes on a bit about how Bayesian networks are used today, e.g. for phones, victim identification etc.
+
+Finally, the chapter sets Bayesian networks a bit in relation to causal diagrams - basically saying that Bayesian Networks are the lowest rung of the [[Ladder of Causality]], and causal networks are higher steps.
+
+### Chapter 4
+This chapter starts with a short history introduction to the concepts of an [[Experiment]] and [[Experimentation]]. It then highlights the importance of understanding [[Confounding Variable]]s and how to deal with them (see [[Confounding]]), as well as list them as a possible [[Bias]]. 
+
+The chapter states that [[Confounding]] is a causal concept—it belongs on rung two of the [[Ladder of Causality]], and 
+
+The chapter then goes on to explain the history of [[Randomized Controlled Trials (RCT)]], and how they relate to [[Causation]] and [[Confounding]]. 
+- Basically talking about how randomization in [[Experiment]]s helps combat [[Confounding]]. 
+
+The chapter then touches a bit more on the history of [[Confounding]] and how it hasn't really been clearly understood by statisticians for a long time. 
+
+Finally, the chapter highlights the importance of the [[Do-operator]] and the [[Back-door Criterion]] for defining confounding, identifying confounders, and adjusting for them.
+- Basically saying we shouldn't always control for everything. We need to use [[Causal Diagram]]s and understand the types listed in [[D-Separation]]. 

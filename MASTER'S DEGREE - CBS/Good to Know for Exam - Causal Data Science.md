@@ -1,0 +1,4 @@
+- Changing/manipulating a variable is called "wiggling" it
+- Holding a variable constant is called "confounding on" it
+- The "|" sign means "given that" and is used in [[Conditional Probability]]
+- 

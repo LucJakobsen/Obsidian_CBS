@@ -9,6 +9,8 @@ Each node sends a message to all its neighbors (both above and below in the hier
 - If the message went from child to parent, the parent would update its beliefs by multiplying them by a [[Likelihood Ratio]]
 	- Applying these two rules repeatedly to every node in the network is called [[Belief Propagation]]. 
 
+A Bayesian network is literally nothing more than a compact representation of a huge probability table. 
+- The arrows mean only that the probabilities of child nodes are related to the values of parent nodes by a certain formula
 
 
 ### Bayesian Network uses:

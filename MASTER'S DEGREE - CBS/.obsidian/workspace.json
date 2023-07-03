@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e38a067ba493500e",
+            "id": "ac40bf4a62244569",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md"
+              }
             }
           },
           {
@@ -178,16 +186,28 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e38a067ba493500e",
+  "active": "ac40bf4a62244569",
   "lastOpenFiles": [
+    "NEEDS COMPLETING/Do-operator.md",
     "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "Good to Know for Exam - Causal Data Science.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
+    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
+    "CBS - Master/SummerUni/Causal Data Science/Randomized Controlled Trials (RCT).md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230703131206.png",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Bias.md",
+    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability Table.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230703115258.png",
+    "CBS - Master/SummerUni/Causal Data Science/Causal Diagram.md",
+    "CBS - Master/SummerUni/Causal Data Science/Bayesian Networks.md",
+    "CBS - Master/SummerUni/Causal Data Science/Belief Propagation.md",
+    "CBS - Master/SummerUni/Causal Data Science/Bayesian Analysis.md",
     "CBS - Master/SummerUni/Causal Data Science/D-Separation.md",
+    "NEEDS COMPLETING/Collider Bias.md",
     "CBS - Master/SummerUni/Causal Data Science/Directed Acyclic Graphs.md",
     "NEEDS COMPLETING/Structural Causal Models.md",
     "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "CBS - Master/SummerUni/Causal Data Science/Bayesian Networks.md",
-    "Belief Propagation.md",
-    "CBS - Master/SummerUni/Causal Data Science/Bayesian Analysis.md",
     "NEEDS COMPLETING/Neural Networks.md",
     "NEEDS COMPLETING/Statistical Independence.md",
     "NEEDS COMPLETING/Probability.md",
@@ -196,16 +216,6 @@
     "NEEDS COMPLETING/Likelihood Ratio.md",
     "CBS - Master/SummerUni/Causal Data Science/Inverse Probability.md",
     "CBS - Master/SummerUni/Causal Data Science/Forward Probability.md",
-    "NEEDS COMPLETING/Causal Inference.md",
-    "NEEDS COMPLETING/Do-operator.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Predictive Analysis.md",
-    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confusion Matrix.md",
-    "CBS - Master/SummerUni/Causal Data Science/Bayes' Rule.md",
-    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability.md",
-    "CBS - Master/SummerUni/Causal Data Science/Causal Diagram.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Path Model.md",
-    "CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230629153453.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230629152923.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230629145337.png",
@@ -220,8 +230,6 @@
     "CBS - Master/SummerUni",
     "CBS - Master/1st Semester/Images/Pasted image 20230430110743.png",
     "CBS - Master/1st Semester/Images/Pasted image 20230430102955.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230430100905.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230430094126.png",
     "Scenario-based Lab Experiment",
     "NEEDS COMPLETING",
     "Untitled.canvas",
