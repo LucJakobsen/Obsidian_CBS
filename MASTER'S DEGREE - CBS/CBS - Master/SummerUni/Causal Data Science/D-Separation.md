@@ -5,7 +5,7 @@ It allows us to say something about the structure of the graph and what they mea
 D-separation is related to [[Bayesian Networks]], more specifically three node networks who have the below junction (link) types:
 ![[Pasted image 20230629153453.png]]
 
-1. ***Chain (A causes B causes C)*** basically saying: A and C are not independent, but if we can somehow hold B constant, then A and C are independent (we remove the relationship between A and C)
+1. ***Chain (A causes B causes C)*** basically saying: A and C are not independent, but if we can somehow hold B constant, then A and C are independent (we remove the relationship between A and C). A and C are correlated until we condition on B.
 	- A familiar example is Fire --> Smoke --> Alarm
 		- The fire  does not set off an alarm, so there is no direct arrow from Fire to Alarm. Nor does the fire set off the alarm through any other variable, such as heat.
 	- The mediator B “screens off” information about A from C, and vice versa

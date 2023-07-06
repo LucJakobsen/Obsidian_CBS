@@ -1,0 +1,1 @@
+- Check distribution before choosing algorithms/models for prediction

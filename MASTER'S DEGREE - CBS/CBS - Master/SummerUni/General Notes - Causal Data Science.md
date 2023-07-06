@@ -36,4 +36,13 @@ Causality is always an asymmetrical relationship
 	- This is not the case in causation
 - The functions in causation can have any shape and form
 	- Because in many contents we don't know how e.g. "gender" and "salary" relate to each other
-- 
+
+
+### Lecture 3
+- Causal paths and directed paths mean the same
+- There can still be paths even when there is no causal path
+![[Pasted image 20230704143521.png]]
+	- So here we e.g. still see 2 paths, but only 1 causal path
+
+
+- Confounders are usually forks, and mediators chains

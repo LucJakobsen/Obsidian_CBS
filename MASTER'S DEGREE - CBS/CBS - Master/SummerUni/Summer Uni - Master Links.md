@@ -32,4 +32,7 @@ Lecture 2 introduced some basic Python syntax and showed how to handle data in P
 [[Python Libraries]]
 
 ### Lecture 3
+Lecture 3 focused on data visualization within Python by introducing various tools and libraries for descriptive analytics. 
+[[Python Libraries]]
+[[Descriptive Analytics (Python)]]
 

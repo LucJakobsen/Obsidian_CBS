@@ -1,4 +1,5 @@
 A DAG is a graph, comprised of nodes and edges (arrows). It is a type of [[Causal Diagram]]. 
+- Directed paths and causal paths means the same
 
 The direction of an edge determines the relationship between the two nodes on either side.
 
