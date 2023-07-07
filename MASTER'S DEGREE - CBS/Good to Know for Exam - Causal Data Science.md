@@ -6,6 +6,9 @@
 - In Chains and Forks the paths are open. In Colliders the path is blocked
 	- If we condition on B we block the paths in chains and forks. In colliders we open it
 - Directed paths and causal paths mean the same
+- To deal with confounding paths we condition on specific variables
+	- Blocking the non-causal paths but leaving the casual paths intact
+- Conditioning on descendants of colliders also open up the path
 
 
 - Check up on independent and dependent symbols and the types

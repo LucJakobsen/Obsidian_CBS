@@ -45,4 +45,8 @@ Causality is always an asymmetrical relationship
 	- So here we e.g. still see 2 paths, but only 1 causal path
 
 
-- Confounders are usually forks, and mediators chains
+- [[Confounders]] are usually forks, and [[Mediators]] chains
+
+So in the example of Dynamic Pricing ---> Food Waste, mediators are in between, while confounders affect both but aren't between
+
+### Lecture 4

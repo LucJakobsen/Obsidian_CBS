@@ -57,6 +57,23 @@ The inline ensures that the graphs are displayed in the notebook instead of a po
 - ``sns.kdeplot`` = will create a kernel density estimation (smoother histogram basically)
 - ``sns.pairplot`` = will visualize he multidimensional relationships among variables
 - ``sns.FacetGrid`` = used to visualize the distribution of a variable or the relationship between multiple variables separately within subsets
-	- Basically it creates a grid which you can insert graphs into
+	- Basically it creates an empty grid which you can insert graphs into
+	- ``FacetGrid.map`` = will add the graphs into the grid
 - ``sns.catplot`` = will create a categorical plot (used for plotting categorical variables)
 - ``sns.jointplot`` = shows the joint distribution between  different datasets
+
+
+### Scikit-learn
+
+***Scikit-learn functions and uses:***
+- ``from sklearn.model_selection import train_test_split`` = will import the train_test_split for splitting data into a training and testing set (needed for regression) 
+- ``from sklearn.linear_model import LinearRegression`` = allows us to implement [[OLS Regression]]
+- ``from sklearn.model_selection import cross_val_score`` = used to carry out [[K-fold Cross Validation]]
+- ``from sklearn.metrics import mean_squared_error`` = used to calculate the [[Mean Squared Error]] for the linear regression
+- ``from sklearn.linear_model import Lasso`` = imports the lasso model which can be used for [[Regularized Linear Regression]]
+- ``from sklearn.linear_model import Ridge`` = imports the ridge model which can be used for [[Regularized Linear Regression]]
+- ``from sklearn.preprocessing import PolynomialFeatures`` = imports 
+
+
+### PlotLy
+Can be used for generating interactive graphs

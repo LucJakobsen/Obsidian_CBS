@@ -7,3 +7,4 @@
 
 - ``pow(x,y,z)`` can be used to find the power of x^y also the mod of the resulting value with the third specified number can be found i.e. (x^y%z)
 
+- ``lambda`` = a lambda function is a special type of function without the function name

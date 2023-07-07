@@ -45,7 +45,7 @@ This chapter starts out with a bit of history about of how the [[Normal Distribu
 
 This then leads to the birth of the word [[Correlation]]: "*Galton started using a new word for this kind of relationship: height and forearm length were “co-related.” Eventually, he opted for the more normal English word “correlated*"
 
-Galton continues his research on linkage between father and son genetics (e.g. height), leading to the [[CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression|Regression]] line and the finding that correlation does not mean causation. Later his disciple, Karl Pearson, created the correlation coefficient.
+Galton continues his research on linkage between father and son genetics (e.g. height), leading to the [[CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression|Regression]] line and the finding that correlation does not mean causation. Later his disciple, Karl Pearson, created the correlation coefficient.
 
 So basically, Galton proved that regression to the mean does not require a causal explanation, and Pearson then took this and said "causality isn't needed and it can't be proved".
 

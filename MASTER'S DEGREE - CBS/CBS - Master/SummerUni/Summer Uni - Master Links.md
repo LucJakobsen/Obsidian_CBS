@@ -16,6 +16,8 @@ Lecture 2 focused on why causation is important and how it differs from [[Correl
 [[D-Separation]]
 
 ### Lecture 3
+Lecture 3 introduced us to the program of Causalfusion.net, where we examined causal paths (aka directed paths) within causal models. A key point was that there can still be paths even when there is no causal path - these are confounding paths or biased paths.
+
 
 
 ## Machine Learning for Predictive Analytics in Business
@@ -35,4 +37,16 @@ Lecture 2 introduced some basic Python syntax and showed how to handle data in P
 Lecture 3 focused on data visualization within Python by introducing various tools and libraries for descriptive analytics. 
 [[Python Libraries]]
 [[Descriptive Analytics (Python)]]
+
+### Lecture 4
+Lecture 4 introduced how to perform [[Regression]] within Python, more specifically the linear regression models such as [[OLS Regression]].
+[[Linear Regression (Python)]]
+[[Regularized Linear Regression]]
+[[Polynomial Regression]]
+[[train_test_split]]
+[[K-fold Cross Validation]]
+
+### Lecture 5
+Lecture 5 introduced how to perform [[Logistic Regression]] in Python. 
+[[Logistic Regression (Python)]]
 

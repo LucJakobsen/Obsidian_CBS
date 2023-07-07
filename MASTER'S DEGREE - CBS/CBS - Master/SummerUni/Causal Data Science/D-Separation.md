@@ -1,7 +1,10 @@
 D-separation are a part of [[Directed Acyclic Graphs]] and are about manipulating the paths within [[Structural Causal Models]]. 
 
 It allows us to say something about the structure of the graph and what they mean for the probabilistic elements of the graphs.
+- Typically we start by creating a [[Causal Diagram]] and then test for independencies (unlike in [[Causal Discovery]]). 
 
+
+## The D-separation Criterion
 D-separation is related to [[Bayesian Networks]], more specifically three node networks who have the below junction (link) types:
 ![[Pasted image 20230629153453.png]]
 

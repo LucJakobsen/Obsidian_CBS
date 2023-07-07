@@ -8,7 +8,7 @@ Predictive analysis can deal with both big data and "small" data, and can analys
 
 
 There are various techniques for predictive analysis, e.g.:
-- [[CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression|Regression]]
+- [[CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression|Regression]]
 - [[Decision Trees]]
 - [[Neural Networks]]
 - [[Random Forests]]

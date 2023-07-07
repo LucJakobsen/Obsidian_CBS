@@ -1,4 +1,4 @@
-Ordinal Least Squares (OLS) Regression is a [[CBS - Master/1st Semester/Understanding and Regulating Data-driven Business Models/Regression|Regression]] method that estimates the relationship between one or more [[Independent Variable|independent variables]] and a [[Dependent Variable|dependent variable]].
+Ordinal Least Squares (OLS) Regression is a [[CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Regression|Regression]] method that estimates the relationship between one or more [[Independent Variable|independent variables]] and a [[Dependent Variable|dependent variable]].
 
 It tries to answer the question: "What is the relationship between variable x and variable y"
 - The relationship is assumed to be linear
