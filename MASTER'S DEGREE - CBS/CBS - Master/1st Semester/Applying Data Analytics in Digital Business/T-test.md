@@ -7,3 +7,6 @@ With a 95% [[Confidence Interval]], we will reject the null hypothesis if the P-
 
 If the P-value is above 0.05 we cannot reject the null hypothesis, meaning that there is no difference. 
 
+![[Pasted image 20230707152824.png]]
+
+

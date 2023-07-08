@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logistic Regression (Python).md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logistic Regression (Python).md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logistic Regression (Python).md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logistic Regression (Python).md"
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md"
               }
             }
           },
@@ -172,12 +172,24 @@
   },
   "active": "e38a067ba493500e",
   "lastOpenFiles": [
-    "Logistic Regression (Python).md",
-    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-fold Cross Validation.md",
+    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
     "CBS - Master/SummerUni/General Notes - Machine Learning.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/T-test.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230707152824.png",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/EXPERIMENT_WORKSHOP.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230707140312.png",
+    "Front-door Criterion.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Area Under the ROC Curve (AUC).md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confusion Matrix.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
+    "Logistic Regression (Python).md",
     "Good to Know for Exam - Machine Learning.md",
+    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-fold Cross Validation.md",
     "Descriptive Analytics (Python).md",
     "NEEDS COMPLETING/Statistical Independence.md",
     "NEEDS COMPLETING/Probability.md",
@@ -188,27 +200,15 @@
     "CBS - Master/SummerUni/Causal Data Science/Back-door Criterion.md",
     "CBS - Master/SummerUni/Causal Data Science/Causal Discovery.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Linear Regression (Python).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/R-squared.md",
-    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
-    "CBS - Master/SummerUni/Causal Data Science/Structural Causal Models.md",
-    "CBS - Master/SummerUni/Causal Data Science/D-Separation.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Variable.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230706143825.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Correlation.md",
-    "NEEDS COMPLETING/Do-operator.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230706142424.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230706142418.png",
-    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230706135340.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230706140733.png",
-    "NEEDS COMPLETING/Causal Inference.md",
     "CBS - Master/1st Semester/Images/Pasted image 20230706125701.png",
     "Untitled",
     "CBS - Master/SummerUni/Images/Pasted image 20230706123711.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230704143521.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230704112827.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230704113027.png",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
     "CBS - Master/SummerUni/Images",
     "CBS - Master/SummerUni/Causal Data Science/FILL OUT LATER",

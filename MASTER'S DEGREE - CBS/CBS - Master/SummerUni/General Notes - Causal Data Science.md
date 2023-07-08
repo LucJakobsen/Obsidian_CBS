@@ -49,4 +49,20 @@ Causality is always an asymmetrical relationship
 
 So in the example of Dynamic Pricing ---> Food Waste, mediators are in between, while confounders affect both but aren't between
 
+
+
 ### Lecture 4
+##### Nearest neighbour matching
+- for every observation we look for similar variables and try to match them (e.g. same value in z but different in x) 
+- matching the observations together we can create a dataset where all the variables are the same in e.g. z but all differ in x
+- you then compare treatment and control on these observations while one is constant (conditioned on)
+
+- trade-off: nearest neighbour matching requires a lot of data
+	- also, problem with overlap condition --> meaning sometimes there are no matches, so you need to settle for the next best
+
+Also talked about [[Front-door Criterion]]. 
+
+### Lecture 5
+Focused on [[Experiment]]s and [[Experimentation]].
+
+

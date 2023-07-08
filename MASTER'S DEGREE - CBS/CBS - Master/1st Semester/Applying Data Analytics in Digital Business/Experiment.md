@@ -36,3 +36,12 @@ Furthermore, experiments can be either [[Lab Experiment]] or a [[Field Experimen
 ##### Example reasons for running an experiment:
 ![[Pasted image 20230313214637.png]]
 
+### Practical Considerations for Experimental Design
+- Most A/B tests in practice do not show such spectacular results as suggested in Thomke’s HBR piece
+- Sometimes, just the awareness of taking part in an experiment can change people’s behavior, even if no treatment is administered (Hawthorne effect)
+- We can test whether treatment and control group is balanced with respect to observable covariates, but be aware of type-1 error
+- You need to make sure that there is sufficient sample size in each treatment arm (power calculation)
+- Effects can occur in clusters
+	- In this case, treated an untreated units are not independent of each other ⇒ SUTVA (stable unit treatment value assumption) violation
+- Averages can hide treatment effect heterogeneity
+- Consider to pre-register your experiments
