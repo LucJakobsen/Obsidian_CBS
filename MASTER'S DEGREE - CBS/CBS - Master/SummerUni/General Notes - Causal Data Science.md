@@ -65,4 +65,5 @@ Also talked about [[Front-door Criterion]].
 ### Lecture 5
 Focused on [[Experiment]]s and [[Experimentation]].
 
+### Lecture 6
 

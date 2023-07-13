@@ -18,6 +18,8 @@ Lecture 2 focused on why causation is important and how it differs from [[Correl
 ### Lecture 3
 Lecture 3 introduced us to the program of Causalfusion.net, where we examined causal paths (aka directed paths) within causal models. A key point was that there can still be paths even when there is no causal path - these are confounding paths or biased paths.
 
+### Lecture 4
+
 
 
 ## Machine Learning for Predictive Analytics in Business
