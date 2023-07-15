@@ -115,3 +115,9 @@ The chapter then tells about the correlation between smoking mothers and low bir
 ![[Pasted image 20230710210343.png]]
 
 The collider is Birth Weight. By looking only at babies with low birth weight, we are conditioning on that collider
+
+### Chapter 6
+This chapter states that it will focus on paradoxes within the field of statistics, such as the [[Simpson's Paradox]] and [[Monty Hall Problem]], and view them with a more "causal lens".
+
+The chapter goes on to discuss the [[Monty Hall Problem]] in more detail, highlighting the importance of understanding both the data and the data-generating process (how the the data is obtained). The problem is used to explain how our brains are not wired to do probability problems, but they are wired to do causal problems.
+

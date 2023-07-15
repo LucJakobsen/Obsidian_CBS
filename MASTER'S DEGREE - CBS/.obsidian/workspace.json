@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide - Data Analysis.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide - Data Analysis.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guide - Data Analysis.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guide - Data Analysis.md"
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md"
               }
             }
           },
@@ -164,6 +164,14 @@
   },
   "active": "e38a067ba493500e",
   "lastOpenFiles": [
+    "Monty Hall Problem.md",
+    "CBS - Master/SummerUni/Causal Data Science/Bayesian Analysis.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "Pasted image 20230715173811.png",
+    "Pasted image 20230715173807.png",
+    "Pasted image 20230715173756.png",
+    "Pasted image 20230715173752.png",
+    "Pasted image 20230715173748.png",
     "Guide - Data Analysis.md",
     "Good to Know for Exam - Machine Learning.md",
     "K-Nearest Neighbors (Python).md",
@@ -186,20 +194,12 @@
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/EXPERIMENT_WORKSHOP.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230707140312.png",
     "Front-door Criterion.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
     "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Area Under the ROC Curve (AUC).md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confusion Matrix.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
     "Logistic Regression (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-fold Cross Validation.md",
-    "Descriptive Analytics (Python).md",
     "CBS - Master/SummerUni/Images/Pasted image 20230706143825.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230706142424.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230706142418.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230706135340.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230706140733.png",
-    "CBS - Master/1st Semester/Images/Pasted image 20230706125701.png",
     "Untitled",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
     "CBS - Master/SummerUni/Images",

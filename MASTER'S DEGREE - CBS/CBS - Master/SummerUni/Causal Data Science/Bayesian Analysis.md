@@ -1,6 +1,7 @@
 The prototype of Bayesian analysis goes like this: Prior Belief + New Evidence --> Revised Belief
 
-
+A general theme of Bayesian analysis: any hypothesis that has survived some test that threatens its validity becomes more likely
+- We see this e.g. in the [[Monty Hall Problem]]
 
 **Example:**
 Suppose you toss a coin ten times and find that in nine of those tosses the coin came up heads
