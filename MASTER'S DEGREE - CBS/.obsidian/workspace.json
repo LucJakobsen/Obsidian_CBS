@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-Nearest Neighbors (Python).md",
+                "file": "Guide - Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "177164ea528d29e0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -101,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K-Nearest Neighbors (Python).md",
+                "file": "Guide - Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K-Nearest Neighbors (Python).md",
+                "file": "Guide - Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K-Nearest Neighbors (Python).md"
+                "file": "Guide - Data Analysis.md"
               }
             }
           },
@@ -172,10 +164,11 @@
   },
   "active": "e38a067ba493500e",
   "lastOpenFiles": [
-    "Hill´s Criteria.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230710210343.png",
+    "Guide - Data Analysis.md",
     "Good to Know for Exam - Machine Learning.md",
     "K-Nearest Neighbors (Python).md",
+    "Hill´s Criteria.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230710210343.png",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
     "CBS - Master/SummerUni/General Notes - Machine Learning.md",
     "Instance-based Learning.md",
@@ -201,7 +194,6 @@
     "Logistic Regression (Python).md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-fold Cross Validation.md",
     "Descriptive Analytics (Python).md",
-    "NEEDS COMPLETING/Statistical Independence.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230706143825.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230706142424.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230706142418.png",
