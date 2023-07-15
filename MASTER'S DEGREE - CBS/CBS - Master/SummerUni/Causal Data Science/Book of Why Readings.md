@@ -99,3 +99,19 @@ The chapter then touches a bit more on the history of [[Confounding]] and how it
 
 Finally, the chapter highlights the importance of the [[Do-operator]] and the [[Back-door Criterion]] for defining confounding, identifying confounders, and adjusting for them.
 - Basically saying we shouldn't always control for everything. We need to use [[Causal Diagram]]s and understand the types listed in [[D-Separation]]. 
+
+### Chapter 5
+The chapter starts out with looking back at the debate surrounding the relationship between smoking and lung cancer. Basically telling how some argued that smoking and lung cancer were correlated due to a "lurking third variable" ([[Confounders]]), while other said it was a cause. 
+
+It goes on to tell more about the smoking debate, and leads into explaining how sometimes [[Randomized Controlled Trials (RCT)]] are simply not possible to conduct - which is why we need other ways to determine causality.
+
+It says case-control studies were conducted, but these had with them all sorts of various [[Bias]]. This therefore let to a questionnaire about smoking habits which provided new results. However, there was still arguments such as *"They (smokers) may be genetically or “constitutionally” different from nonsmokers in a number of ways—more risk taking, likelier to drink heavily"*.
+
+They then end up with [[Hill´s Criteria]]/viewpoints, but also state that they may be lacking in some areas.
+
+The chapter then tells about the correlation between smoking mothers and low birth weight and mortality of their babies. This section highlights the importance of understanding colliders (see [[Structural Causal Models]] and [[Collider Bias]]), as, e.g:
+*"If we find out that the mother is a smoker, this explains away the low weight and consequently reduces the likelihood of a serious birth defect. But if the mother does not smoke, we have stronger evidence that the cause of the low birth weight is a birth defect, and the baby’s prognosis becomes worse."*
+
+![[Pasted image 20230710210343.png]]
+
+The collider is Birth Weight. By looking only at babies with low birth weight, we are conditioning on that collider
