@@ -18,5 +18,6 @@ P(A|B) = P(B|A) * P(A) / P(B)
     
 - P(A) and P(B): The probabilities of A and B independently occurring, often referred to as the prior probabilities.
 
+![[Pasted image 20230713112704.png]]
 
 A large part of human belief about future events rests on the frequency with which they or similar events have occurred in the past. Bayes’s rule lets us attach numbers to this reasoning process.

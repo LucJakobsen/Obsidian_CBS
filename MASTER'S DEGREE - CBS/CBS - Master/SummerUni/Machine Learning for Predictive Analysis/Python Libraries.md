@@ -76,6 +76,7 @@ The inline ensures that the graphs are displayed in the notebook instead of a po
 - ``from sklearn.metrics import confusion_matrix`` = imports the model needed for [[Confusion Matrix]]. 
 - ``from sklearn.metrics import classification_report`` = used to calculate evaluation metrics from the [[Confusion Matrix]]
 	- ``print(classification_report(y_train, y_pred_train))``
+- ``from sklearn.neighbors import KNeighborsClassifier`` = imports the model needed for [[K-Nearest Neighbors (Python)]]
 - 
 
 

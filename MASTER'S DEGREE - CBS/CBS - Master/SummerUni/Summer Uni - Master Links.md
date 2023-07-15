@@ -50,3 +50,10 @@ Lecture 4 introduced how to perform [[Regression]] within Python, more specifica
 Lecture 5 introduced how to perform [[Logistic Regression]] in Python. 
 [[Logistic Regression (Python)]]
 
+### Lecture 6
+
+
+### Lecture 7
+Lecture 7 focused on how to perform [[K-Nearest Neighbors (Python)]] and [[Naive Bayes (Python)]]
+[[K-Nearest Neighbors (Python)]]
+[[Naive Bayes (Python)]]

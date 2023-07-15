@@ -10,4 +10,9 @@
 	- ``df.isnull().sum()`` will provide an overview of the various columns´ missing data
 
 - For [[Logistic Regression (Python)]] we typically benchmark with random guess (50%)
+
+
+- Check if data sample has to be resampled
+- Always check if the index is weird or somehow not in order
+- Might be good to optimize parameters using cross-validation etc.
 - 
