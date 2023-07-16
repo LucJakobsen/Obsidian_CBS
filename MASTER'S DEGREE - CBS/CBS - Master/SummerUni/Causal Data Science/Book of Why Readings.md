@@ -121,3 +121,14 @@ This chapter states that it will focus on paradoxes within the field of statisti
 
 The chapter goes on to discuss the [[Monty Hall Problem]] in more detail, highlighting the importance of understanding both the data and the data-generating process (how the the data is obtained). The problem is used to explain how our brains are not wired to do probability problems, but they are wired to do causal problems.
 
+The [[Berkson's Paradox]] is then introduced to further explain how conditioning on a collider can cause issues and paradoxes - essentially because we create spurious correlations between two variables when we condition on the collider variable. 
+![[Pasted image 20230716133238.png]]
+So here, if we e.g. only look at hospitalization (condition on it), we open the path and disease 1 and 2 become dependent. 
+
+**The chapter is essentially saying that correlation can sometimes occur without causation, which is brought by the process which we generate the data: *choosing which events to include in our data set and which to ignore*.**
+- So in extension, it highlights the importance of always considering the data-generating process
+
+The chapter then moves on to the next paradox: [[Simpson's Paradox]]. 
+
+
+

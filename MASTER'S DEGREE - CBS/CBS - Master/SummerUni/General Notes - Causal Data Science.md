@@ -68,3 +68,38 @@ Focused on [[Experiment]]s and [[Experimentation]].
 ### Lecture 6
 
 
+### Lecture 7
+[(225) CDSM20 – Keynote 1 - YouTube](https://www.youtube.com/watch?v=oTeygIetj34)
+
+The lecture focuses on the more practical application of causal data science, illustrated through the example of the car rental company Lyft. Basically they are still at the second rung of the [[Ladder of Causality]]. They are performing a lot of interventions to deal with confounders etc.
+
+Basically what they're trying to do is attempting to perform optimization, so they can maximize e.g. optimal level of incentives to increase the amount of drivers. 
+- So a causal model with incentives and drivers
+- So they examine causes and try to understand how they influence nodes so they essentially can optimize the investment into nodes
+
+Lyft is experiencing problems with e.g. [[Confounding]]. 
+
+To improve what happens in the Lyft marketplace, they perform interventions.:
+![[Pasted image 20230716162158.png]]
+- The interventions basically work by turning algorithms on/off
+	- So a form of [[Experimentation]] - see if the algorithms are making a difference
+	- They also do this via regions - so have treatment regions and control regions
+	- They also want to perform variance reduction and reduce the error term --> gives a better estimate of the effect of the model
+		- They want the effect to not have an effect on the particular baseline model
+
+*Themes from the lecture*
+- Confounding is less problematic because **we can intervene programmatically** Experimentation is a ubiquitous tool
+	- So confounding is less problematic in business compared to academic
+- Causal models provide the underpinning for effective decisions. We accumulate knowledge in formal models and automate decisions to the extent that we can
+	- Not enough to estimate, we need to automate stuff
+- Clearly defining goals and tradeoffs is paramount in a world of automated decision making
+	- Else you might optimize the wrong stuff
+- Predictive modeling adds value through helping us understand effect heterogeneity, reduce variance, and pool information across policies
+
+
+Example DAG ([[Directed Acyclic Graphs]]) from Lyft:
+![[Pasted image 20230716160414.png]]
+
+Some-what summary of what was being done at Lyft:
+![[Pasted image 20230716161610.png]]
+![[Pasted image 20230716163926.png]]

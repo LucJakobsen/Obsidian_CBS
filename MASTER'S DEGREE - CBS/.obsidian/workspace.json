@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md"
+                "file": "CBS - Master/SummerUni/General Notes - Causal Data Science.md"
               }
             }
           },
@@ -162,44 +162,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e38a067ba493500e",
+  "active": "fda6b7fbb4fde02a",
   "lastOpenFiles": [
-    "Monty Hall Problem.md",
-    "CBS - Master/SummerUni/Causal Data Science/Bayesian Analysis.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "Pasted image 20230715173811.png",
-    "Pasted image 20230715173807.png",
-    "Pasted image 20230715173756.png",
-    "Pasted image 20230715173752.png",
-    "Pasted image 20230715173748.png",
-    "Guide - Data Analysis.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230716163926.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230716162158.png",
+    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230716161610.png",
+    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230716160414.png",
+    "Descriptive Analytics (Python).md",
+    "CBS - Master/SummerUni/Causal Data Science/Hill´s Criteria.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Logistic Regression (Python).md",
+    "Polynomial Regression.md",
+    "Regularized Linear Regression.md",
+    "CBS - Master/SummerUni/Causal Data Science/Berkson's Paradox.md",
+    "Front-door Criterion.md",
     "Good to Know for Exam - Machine Learning.md",
-    "K-Nearest Neighbors (Python).md",
-    "Hill´s Criteria.md",
+    "Guide - Data Analysis.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Instance-based Learning.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-Nearest Neighbors (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Naive Bayes (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Non-Parametric.md",
+    "CBS - Master/SummerUni/Causal Data Science/Monty Hall Problem.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230715173748.png",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "CBS - Master/SummerUni/Causal Data Science/Simpson's Paradox.md",
+    "CBS - Master/SummerUni/Causal Data Science/D-Separation.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230716133238.png",
+    "CBS - Master/SummerUni/Causal Data Science/Bayesian Analysis.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230715173811.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230715173807.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230715173756.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230715173752.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230710210343.png",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
     "CBS - Master/SummerUni/General Notes - Machine Learning.md",
-    "Instance-based Learning.md",
     "CBS - Master/SummerUni/Causal Data Science/Queries.md",
-    "Non-Parametric.md",
-    "Naive Bayes (Python).md",
     "CBS - Master/SummerUni/Causal Data Science/Bayes' Rule.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230713112704.png",
     "Good to Know for Exam - Causal Data Science.md",
-    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/T-test.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230707152824.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/EXPERIMENT_WORKSHOP.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230707140312.png",
-    "Front-door Criterion.md",
-    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Area Under the ROC Curve (AUC).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confusion Matrix.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
-    "Logistic Regression (Python).md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230706143825.png",
     "Untitled",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
     "CBS - Master/SummerUni/Images",
