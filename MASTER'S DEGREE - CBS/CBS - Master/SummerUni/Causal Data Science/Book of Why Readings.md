@@ -130,5 +130,18 @@ So here, if we e.g. only look at hospitalization (condition on it), we open the 
 
 The chapter then moves on to the next paradox: [[Simpson's Paradox]]. 
 
+### Chapter 7
+This chapter focuses on the introduction of do-calculus ([[Do-operator]]) which is used for the [[Interventions in Structural Causal Models]]. 
+
+The chapter states that the simplest route is to control for and block backdoor paths, as per the [[Back-door Criterion]]: *To sum up, the back-door adjustment formula and the back-door criterion are like the front and back of a coin. The back-door criterion tells us which sets of variables we can use to deconfound our data. The adjustment formula actually does the deconfounding*.
+
+He basically starts out with talking about how regression coefficients and path analysis is lacking, and that the [[Back-door Criterion]] and backdoor-analysis is needed for interventions. 
+
+The chapter then goes on to introduce the [[Front-door Criterion]]. After having explained the [[Front-door Criterion]] and why its useful, the chapter focuses more on the [[Do-calculus]] - explaining its three rules and how it essentially works.
+- It's a bit technical and "mathy", so might need some better understanding.
+
+The chapter talks more about the history of the [[Do-operator]] and [[Do-calculus]], and how interventions essentially deletes arrows from a [[Causal Diagram]]. It's mostly just history stuff though.
+
+The chapter then talks a bit more history before introducing the idea of an [[Instrumental Variable]]. 
 
 

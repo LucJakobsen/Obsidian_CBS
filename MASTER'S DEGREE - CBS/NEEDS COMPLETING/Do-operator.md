@@ -1,6 +1,7 @@
-The operator is basically specifying that we are examining the causal effect ([[Causation]]), rather than [[Correlation]]. 
+In the context of [[Causal Inference]] and [[Do-calculus]] as formulated by Judea Pearl, the term "do" is used to denote an intervention. When we say "do(X)", we mean that we are intervening in the system to set the variable X to a certain value, irrespective of its previous state or inputs.
 
-The do-operator is related to and used when we perform interventions in [[Structural Causal Models]]. 
+The do-operator is related to and used when we perform [[Interventions in Structural Causal Models]]. 
+
 
 The do-operator gives us scientifically sound ways of determining causal effects from nonexperimental studies
 - which challenge the traditional supremacy of [[Randomized Controlled Trials (RCT)]].
