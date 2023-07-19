@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
+                "file": "CBS - Master/SummerUni/General Notes - Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
+                "file": "CBS - Master/SummerUni/General Notes - Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
+                "file": "CBS - Master/SummerUni/General Notes - Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md"
+                "file": "CBS - Master/SummerUni/General Notes - Machine Learning.md"
               }
             }
           },
@@ -177,8 +177,19 @@
   },
   "active": "dc2fc5e4a8ea55bb",
   "lastOpenFiles": [
-    "Good to Know for Exam - Causal Data Science.md",
     "Good to Know for Exam - Machine Learning.md",
+    "Good to Know for Exam - Causal Data Science.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/R-squared.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Root Mean Square Error of Approximation (RMSEA).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-fold Cross Validation.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confirmatory Factor Analysis (CFA).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Ensemble Learning.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Bootstrap Aggregation.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Random Forests.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Black Box and White Box Models.md",
     "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230718143256.png",
     "CBS - Master/SummerUni/Summer Uni - Master Links.md",
@@ -186,26 +197,16 @@
     "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
     "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
     "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Black Box and White Box Models.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Permutation Importance.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Information Entropy.md",
     "Guide - Data Analysis.md",
     "Gradient Boosting.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Ensemble Learning.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Decision Trees.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Bootstrap Aggregation.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Boosting.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Tree Pruning.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Random Forests.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230718112421.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718113259.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718112703.png",
-    "NEEDS COMPLETING/Neural Networks.md",
-    "NEEDS COMPLETING/Statistical Independence.md",
-    "NEEDS COMPLETING/Path Analysis.md",
-    "NEEDS COMPLETING/Probability.md",
-    "NEEDS COMPLETING/Do-operator.md",
-    "NEEDS COMPLETING/Likelihood Ratio.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230716163926.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230716162158.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230716161610.png",

@@ -1,5 +1,7 @@
 Random forest is a representative of tree-based [[Bootstrap Aggregation]] algorithms. It incorporates of randomized feature selection when constructing decision trees. 
 
+The logic behind the Random Forest model is that multiple uncorrelated models (the individual decision trees) perform much better as a group than they do alone
+
 Random forest first randomly selects a **subset** of features, and then carries out the conventional split selection procedure within the selected feature subset. 
 - This random feature selection/column subsampling can increase possibility of independence of weaker learners in the bagging, then increase the reduction in bias and variance.
 
