@@ -19,6 +19,24 @@ Lecture 2 focused on why causation is important and how it differs from [[Correl
 Lecture 3 introduced us to the program of Causalfusion.net, where we examined causal paths (aka directed paths) within causal models. A key point was that there can still be paths even when there is no causal path - these are confounding paths or biased paths.
 
 ### Lecture 4
+Lecture 4 focused mostly on 
+
+### Lecture 5
+Lecture 5 focused mostly on utilising [[Experiment]]s and [[Experimentation]] for ascertaining causal effect. We e.g. looked at how randomization helps deal with confounders, and how experiments and interventions affect the [[Directed Acyclic Graphs]].
+[[Randomized Controlled Trials (RCT)]]
+[[Interventions in Structural Causal Models]]
+
+### Lecture 6
+
+### Lecture 7
+Lecture 7 focused on a more practical aspect of causal data science and [[Causal Inference]]. We were shown how the company Lyft utilises causal inference for their business decisions and how they use interventions to improve their services. 
+[[General Notes - Causal Data Science]] (more notes here)
+
+### Lecture 8
+Lecture 8 started with an explanation about the relationship between [[Causation]] and [[Artificial Intelligence]]. Basically saying it will lead to [[Counterfactual Reasoning]]. We then looked closer at [[Do-calculus]]. 
+[[Counterfactual Reasoning]]
+[[Do-calculus]]
+
 
 
 
@@ -53,9 +71,22 @@ Lecture 5 introduced how to perform [[Logistic Regression]] in Python.
 [[Logistic Regression (Python)]]
 
 ### Lecture 6
+Lecture 6 focused on artificial neural networks and how they may be used for prediction.
+[[Neural Networks]]
 
 
 ### Lecture 7
 Lecture 7 focused on how to perform [[K-Nearest Neighbors (Python)]] and [[Naive Bayes (Python)]]
 [[K-Nearest Neighbors (Python)]]
 [[Naive Bayes (Python)]]
+
+### Lecture 8
+Lecture 8 focused on tree-based models, which can be utilised for decision-making and predictions. More specifically we looked at decision trees, random forest, and gradient boosting.
+[[Decision Trees]]
+[[Tree Pruning]]
+[[Ensemble Learning]]
+[[Random Forests]]
+[[Boosting]]
+[[Gradient Boosting]]
+[[AdaBoost]]
+

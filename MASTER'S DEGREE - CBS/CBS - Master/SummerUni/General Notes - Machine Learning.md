@@ -48,3 +48,4 @@ For matplotlib, using axes will give us more control over e.g. the size of the g
 ### Lecture 7
 [[K-Nearest Neighbors (Python)]] and [[Naive Bayes (Python)]] are mostly used for [[Classification]] but can also be used for [[Regression]] with some small modifcations.
 
+### Lecture 8 

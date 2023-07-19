@@ -12,3 +12,13 @@
 
 
 - Check up on independent and dependent symbols and the types
+
+- Always put in a U when there is an unobserved confounder etc.
+	- Might help to write the interactions
+- 
+
+For [[Do-calculus]]
+G = causal diagram
+Gx (x with bar on top) = G where edges into X are deleted
+Gz (z with bar underneath) = G where all edges emitted by Z are deleted
+

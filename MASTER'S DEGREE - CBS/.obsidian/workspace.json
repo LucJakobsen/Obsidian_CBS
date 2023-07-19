@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Interventions in Structural Causal Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc2fc5e4a8ea55bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md"
+                "file": "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md"
               }
             }
           },
@@ -162,44 +175,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e38a067ba493500e",
+  "active": "dc2fc5e4a8ea55bb",
   "lastOpenFiles": [
-    "Instrumental Variable.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "Do-calculus.md",
-    "NEEDS COMPLETING/Do-operator.md",
-    "Front-door Criterion.md",
-    "CBS - Master/SummerUni/Causal Data Science/Back-door Criterion.md",
-    "CBS - Master/SummerUni/Causal Data Science/Structural Causal Models.md",
-    "Interventions in Structural Causal Models.md",
+    "Good to Know for Exam - Causal Data Science.md",
+    "Good to Know for Exam - Machine Learning.md",
+    "CBS - Master/SummerUni/Causal Data Science/Do-calculus.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230718143256.png",
+    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
+    "CBS - Master/SummerUni/Causal Data Science/Interventions in Structural Causal Models.md",
     "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
+    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Black Box and White Box Models.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Permutation Importance.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Information Entropy.md",
+    "Guide - Data Analysis.md",
+    "Gradient Boosting.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Ensemble Learning.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Decision Trees.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Bootstrap Aggregation.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Boosting.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Tree Pruning.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Random Forests.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230718112421.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230718113259.png",
+    "CBS - Master/SummerUni/Images/Pasted image 20230718112703.png",
+    "NEEDS COMPLETING/Neural Networks.md",
+    "NEEDS COMPLETING/Statistical Independence.md",
+    "NEEDS COMPLETING/Path Analysis.md",
+    "NEEDS COMPLETING/Probability.md",
+    "NEEDS COMPLETING/Do-operator.md",
+    "NEEDS COMPLETING/Likelihood Ratio.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230716163926.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230716162158.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230716161610.png",
-    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230716160414.png",
-    "Descriptive Analytics (Python).md",
-    "CBS - Master/SummerUni/Causal Data Science/Hill´s Criteria.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Logistic Regression (Python).md",
-    "Polynomial Regression.md",
-    "Regularized Linear Regression.md",
-    "CBS - Master/SummerUni/Causal Data Science/Berkson's Paradox.md",
-    "Good to Know for Exam - Machine Learning.md",
-    "Guide - Data Analysis.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Instance-based Learning.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-Nearest Neighbors (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Naive Bayes (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Non-Parametric.md",
-    "CBS - Master/SummerUni/Causal Data Science/Monty Hall Problem.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230715173748.png",
-    "CBS - Master/SummerUni/Causal Data Science/Simpson's Paradox.md",
-    "CBS - Master/SummerUni/Causal Data Science/D-Separation.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230716133238.png",
-    "CBS - Master/SummerUni/Causal Data Science/Bayesian Analysis.md",
-    "CBS - Master/SummerUni/Images/Pasted image 20230715173811.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230715173807.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230715173756.png",
-    "CBS - Master/SummerUni/Images/Pasted image 20230715173752.png",
     "Untitled",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
     "CBS - Master/SummerUni/Images",
