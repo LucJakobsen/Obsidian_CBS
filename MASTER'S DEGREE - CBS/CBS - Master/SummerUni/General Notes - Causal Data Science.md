@@ -110,3 +110,10 @@ Some-what summary of what was being done at Lyft:
 Why Causality and AI? Because it can teach machines about [[Counterfactual Reasoning]] which is useful to learn moral choices and understand consequences - essentially moving towards free will.
 
 [[Do-calculus]]
+
+
+
+### Lecture 9
+One problem with samples is that they have to rely on data, and we don't always have enough data to accurately represent the population
+
+Sometimes we can combine biased and unbiased data to help recover from [[Selection Bias]]

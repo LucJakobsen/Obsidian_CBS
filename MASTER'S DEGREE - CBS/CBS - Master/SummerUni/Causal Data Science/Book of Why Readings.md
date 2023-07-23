@@ -144,4 +144,40 @@ The chapter talks more about the history of the [[Do-operator]] and [[Do-calculu
 
 The chapter then talks a bit more history before introducing the idea of an [[Instrumental Variable]]. 
 
+### Chapter 8
+The chapter starts with a brief recap of what we have learned so far:
+*"If we can measure variables that block all the back-door paths, we can use the back-door adjustment formula to obtain the needed effect. If we can find a front-door path that is “shielded” from confounders, we can use front-door adjustment. If we are willing to live with the assumption of linearity or monotonicity, we can use instrumental variables"*
+- and then also do-calculus if none of these can be done
 
+The chapter then states that so far we have mostly looked at samples and populations, not at the individual level - which is by looking at [[Counterfactual Reasoning]] (basically what if this had happened instead). 
+- So *this chapter shows how to use observational and experimental data to extract information about counterfactual scenarios*
+- And explains how to put individual-level causes into the [[Causal Diagram]]s
+
+The chapter then highlights that we can distinguish between 3 different types of causation:
+1. Necessary causation
+2. Sufficient causation
+3. Necessary-and-sufficient causation
+
+The chapter then looks a bit back into history in terms of [[Causation]] and counterfactuals. Essentially looking at [[Counterfactual Reasoning]] and how it has occurred since forever.
+- There's a clear distinction between observing and imagining (counterfactuals can only be imagined) as per the [[Ladder of Causality]]
+
+It is then argued that how we humans and our brains perform [[Counterfactual Reasoning]] likely is via mental [[Causal Diagram]]. 
+
+More history in terms of counterfactuals and causality is explained, and it is highlighted that *viewing causal inference as a missing-data problem can be terribly misleading*.
+- Basically saying that no methods based only on data (rung one) can answer counterfactual questions (rung three)
+
+The chapter then goes on to showcase how we can use *a combination of data and model, we were able to predict the behavior of an individual (Alice) under totally hypothetical conditions*
+- Basically predict real life stuff from our imagination about how the world functions
+	- Requiring of course, strong assumptions
+
+This is then used to introduce [[The First Law of Causal Inference]]. 
+
+The chapter then continues in its argumentation for why [[Causal Diagram]]s are needed in statistics. Going on to explain the difference between [[Structural Equation Modeling (SEM)]] and [[Structural Causal Models]]. 
+- which is that the relationship between causes and effects in an SCM is not necessarily linear
+	- The techniques that emerge from SCM analysis are valid for nonlinear as well as linear functions, discrete as well as continuous variables
+
+The chapter then sets [[Counterfactual Reasoning]] in relation to the law, and says it has been used within this field for a long time. Basically by exploring the probability of necessity (the probability that one event (e.g. x = 1), is necessary for another to occur (e.g. y = 1)).
+
+The chapter then talks about causal diagrams and models in relation to climate change and how they are useful there for answering counterfactuals. 
+
+Finally, the chapter ends with setting the stage for the next chapter: Mediation analysis.

@@ -15,10 +15,13 @@
 
 - Always put in a U when there is an unobserved confounder etc.
 	- Might help to write the interactions
-- 
+
+- Unobserved variables should also be considered paths
 
 For [[Do-calculus]]
 G = causal diagram
 Gx (x with bar on top) = G where edges into X are deleted
 Gz (z with bar underneath) = G where all edges emitted by Z are deleted
 
+
+Check necessary and sufficient conditions

@@ -37,7 +37,10 @@ Lecture 8 started with an explanation about the relationship between [[Causation
 [[Counterfactual Reasoning]]
 [[Do-calculus]]
 
-
+### Lecture 9
+Lecture 9 focused on explaining sample selection bias in relation to [[Causal Inference]] and how it can be dealt with using causal data science techniques.
+[[Selection Bias]]
+[[Heckman Selection Model]]
 
 
 ## Machine Learning for Predictive Analytics in Business
