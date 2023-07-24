@@ -181,3 +181,59 @@ The chapter then sets [[Counterfactual Reasoning]] in relation to the law, and s
 The chapter then talks about causal diagrams and models in relation to climate change and how they are useful there for answering counterfactuals. 
 
 Finally, the chapter ends with setting the stage for the next chapter: Mediation analysis.
+
+### Chapter 9
+The chapter starts by saying there are two types of "Why?".
+1. When you want to know the cause of something (why? what could have caused the heart attack)
+2. When we ask why to understand the connection between cause and effect (why does citrus fruit prevent scurvy)
+
+This chapter will focus on the second.
+
+Basically the chapter focuses on [[Mediation]] and [[Mediators]]. 
+
+After introducing mediation and mediators, the chapter then focuses a bit on why mediation analysis is both useful and needed - this is e.g. done via the history of scurvy.
+- Which it basically is to determine the actual causal effect
+
+After the scurvy example, the chapter talks about how mediation analysis was conducted via causal diagrams/path diagrams all the way back in 1926, when Barbara Burks studied nature vs. nurture for intelligence
+- Also how this introduced early notion of [[Collider Bias]]
+
+The chapter then goes on to explain when and why to condition and not to condition on a mediator, via an example of college gender discrimination
+- Basically sometimes you condition on a mediator along with another variable to block all the paths except the direct causal path
+
+The chapter then goes on to explain [[Direct Effects]], [[Indirect Effects]], and [[Total Effects]]. 
+- And stating that [[Counterfactual Reasoning|counterfactuals]] are needed to express [[Indirect Effects]]
+
+Afterwards the effects are then put in relation to linear causal models - explaining how they are easier to compute for such models.
+- Goes into a lot of mathematical detail and "rambling" about why indirect and direct effects have been computed wrong outside linear models for a long time
+	- As always because "people don't understand causation"
+
+The chapter goes on to discuss a lot about how we can disable the direct effect
+- we have no variable or set of variables to intervene on to disable the direct path and let the indirect path stay active
+	- (think we can't condition on a variable to disable to direct effect)
+
+Then there's a short section about why the author likes formulas - in relation to his Mediation Formula
+- Which he basically uses to say that non-linear mediation analysis is possible.
+
+Finally the chapter ends with some real-life cases for the usage of mediation analysis.
+
+### Chapter 10
+The final chapter closes the book with a discussion about whether we are getting closer to having robots which are able to answer causal questions.
+
+It starts by looking at big data, saying that big data and data mining are not useless, it allows us to spot curious and interesting correlations - yet if we do not include and analyse via models (e.g. [[Causal Diagram]]s), we can never answer the causal questions.
+
+It then goes on to talk about "transporting", which is the process of translating the results of a study from one setting to another is fundamental to science
+- Basically stating that we can transport results from one study to other populations via do-calculus and causal inference
+	- This helps the [[External Validity]] in some way
+
+The chapter then goes on to talk about causality in relation to AI and current AI evolutions/practices. E.g. deep learning methods such as neural networks - which aren't that transparent but still impressive. But can't do causality still.
+
+Next the concept of free will is discussed. How it relates to our understanding of cause and effect and whether robots needs "free will" to truly simulate human intelligence. 
+- Discussing if free will allows better robot-to-robot communication, but also stating that it certainly will allow better robot-to-human communication
+
+Finally, there is talk about making a "moral-robot"
+*we should equip thinking machines with the same cognitive abilities that we have, which include empathy, long-term prediction, and self-restraint, and then allow them to make their own decisions.*
+
+
+ 
+
+

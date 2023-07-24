@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md"
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md"
               }
             }
           },
@@ -177,19 +177,26 @@
   },
   "active": "dc2fc5e4a8ea55bb",
   "lastOpenFiles": [
+    "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
+    "Total Effects.md",
+    "Indirect Effects.md",
+    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
+    "Direct Effects.md",
+    "Mediation.md",
+    "Mediators.md",
+    "NEEDS COMPLETING/Collider Bias.md",
+    "CBS - Master/SummerUni/Causal Data Science/Front-door Criterion.md",
+    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
     "CBS - Master/SummerUni/Summer Uni - Master Links.md",
     "CBS - Master/SummerUni/Causal Data Science/Heckman Selection Model.md",
     "CBS - Master/SummerUni/Causal Data Science/The First Law of Causal Inference.md",
-    "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230723181909.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230723175359.png",
-    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
     "Good to Know for Exam - Causal Data Science.md",
     "CBS - Master/SummerUni/General Notes - Machine Learning.md",
     "Good to Know for Exam - Machine Learning.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/External Validity.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
     "CBS - Master/SummerUni/Causal Data Science/Causal Diagram.md",
     "CBS - Master/SummerUni/Causal Data Science/Structural Causal Models.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Boosting.md",
@@ -198,12 +205,6 @@
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Black Box and White Box Models.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Decision Trees.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Random Forests.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Bootstrap Aggregation.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/OLS Regression.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/R-squared.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Root Mean Square Error of Approximation (RMSEA).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Python Libraries.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Logistic Regression.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230718143256.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718112421.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718113259.png",

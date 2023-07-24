@@ -5,7 +5,7 @@ Related to when we can't measure all variables that we need for backdoor adjustm
 
 ![[Pasted image 20230707140312.png]]
 
-The front-door criterion requires that Z transmits the entire effect of X on Y ([[Mediators|mediates]] the effect)
+The front-door criterion requires that Z transmits the entire effect of X on Y ([[Mediation|mediates]] the effect)
 
 #### Three conditions for the front-door criterion:
 1. The middle variable (mediator) should be the main way x causes y.  
