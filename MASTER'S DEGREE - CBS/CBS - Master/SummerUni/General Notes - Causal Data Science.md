@@ -117,3 +117,26 @@ Why Causality and AI? Because it can teach machines about [[Counterfactual Reaso
 One problem with samples is that they have to rely on data, and we don't always have enough data to accurately represent the population
 
 Sometimes we can combine biased and unbiased data to help recover from [[Selection Bias]]
+
+
+## Lecture 10
+
+The fundamental problem of causal inference = e.g. if we observe someone who has chosen to study, then we will not observe the world where that person had not chosen to study
+
+![[Pasted image 20230725135307.png]]
+We do not observe potential outcomes Y0 for treated individuals (X = 1) and, vice versa, we do not observe Y1 for untreated (X = 0) 
+- aka we can't observe cross-world counterfactuals (worlds where everything is the same except treatment)
+
+Y1 and Y0 = potential outcomes
+
+We could fill the missing data points via imputation - e.g. via [[Experiment]]s so we can add an average to the missing points
+
+A classic violation of unconfoundedness would be that the two treatment groups differ
+
+Background factors in [[Structural Causal Models]] capture differences among individuals
+- So they differ between individuals 
+
+[[Counterfactual Reasoning]] 
+
+
+### Lecture 11

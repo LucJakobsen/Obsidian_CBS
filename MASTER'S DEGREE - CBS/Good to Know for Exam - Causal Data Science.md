@@ -25,3 +25,9 @@ Gz (z with bar underneath) = G where all edges emitted by Z are deleted
 
 
 Check necessary and sufficient conditions
+
+- Answer wrong to quizzes on canvas will give additional 
+
+12 points in total, essay is 4 points
+
+know d-separation, graphical criterion, one question on do-calculus

@@ -8,4 +8,11 @@ Consider the simplest case, which includes three variables:
 We get the direct effect of X on Y when we “wiggle” X without allowing M to change
 
 
-controlled direct effect and the natural direct effect
+### Controlled Direct Effects
+
+
+The opposite of the controlled direct effect is the natural direct effect
+
+### Natural Direct Effects
+
+

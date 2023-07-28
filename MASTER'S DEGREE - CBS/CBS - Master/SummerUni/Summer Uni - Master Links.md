@@ -42,6 +42,20 @@ Lecture 9 focused on explaining sample selection bias in relation to [[Causal In
 [[Selection Bias]]
 [[Heckman Selection Model]]
 
+### Lecture 10
+Lecture 10 focused on explaining how to compute counterfactuals (especially at individual level), hand the process of mediation - as well as direct, indirect, and total effects.
+[[Counterfactual Reasoning]]
+[[Mediation]]
+[[Mediators]]
+[[Direct Effects]]
+[[Indirect Effects]]
+[[Total Effects]]
+
+### Lecture 11
+Lecture 11 focused transportability and external validity. Essentially looking at how our results from samples can be exported to say something about the population - or in terms of transportability, having data about one population and using it to make inferences about another
+[[Transportability]]
+[[External Validity]]
+
 
 ## Machine Learning for Predictive Analytics in Business
 #### Lecture 1
@@ -93,3 +107,10 @@ Lecture 8 focused on tree-based models, which can be utilised for decision-makin
 [[Gradient Boosting]]
 [[AdaBoost]]
 
+### Lecture 9
+
+
+### Lecture 10
+Lecture 10 focused clustering, how to perform the analysis and implement clustering within Python.
+[[Cluster Analysis]]
+[[K-means Clustering]]

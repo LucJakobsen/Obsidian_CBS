@@ -1,5 +1,5 @@
 - Interventions are essentially when we delete a causal model and replace it with a specific value
-
+- We delete all incoming arrows to X
 Interventions are essentially the [[Do-operator]]. 
 
 ![[Pasted image 20230706140733.png]]

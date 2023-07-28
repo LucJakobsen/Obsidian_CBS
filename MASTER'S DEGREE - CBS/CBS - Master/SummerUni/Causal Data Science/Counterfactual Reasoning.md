@@ -17,3 +17,10 @@ Counterfactuals have a particularly problematic relationship with data because d
 Answering counterfactual queries are done using structural causal models. 
 *With a fully specified [[Structural Causal Models]], entailing a causal diagram and all the functions behind it, we can answer any counterfactual query*
 
+### Computing Counterfactuals (Individual-level)
+1. Abduction: Use evidence E = e to determine the value of U.
+
+2. Action: Modify the model M, by removing the structural equations for the variables in X and replacing them with the appropriate functions X = x, to obtain the modified model, Mx .
+
+3. Prediction: Use the modified model, Mx , and the value of U to compute the value of Y , the consequence of the counterfactual
+	
