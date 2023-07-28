@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transportability.md",
+                "file": "NEEDS COMPLETING/Collider Bias.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transportability.md",
+                "file": "NEEDS COMPLETING/Collider Bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transportability.md",
+                "file": "NEEDS COMPLETING/Collider Bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transportability.md"
+                "file": "NEEDS COMPLETING/Collider Bias.md"
               }
             }
           },
@@ -175,39 +175,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e38a067ba493500e",
+  "active": "fda6b7fbb4fde02a",
   "lastOpenFiles": [
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/External Validity.md",
-    "Transportability.md",
-    "Mediators.md",
-    "Mediation.md",
-    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
-    "Good to Know for Exam - Machine Learning.md",
-    "Gradient Boosting.md",
+    "NEEDS COMPLETING/Statistical Independence.md",
+    "NEEDS COMPLETING/Probability.md",
+    "NEEDS COMPLETING/Path Analysis.md",
+    "NEEDS COMPLETING/Neural Networks.md",
+    "CBS - Master/SummerUni/Causal Data Science/Causal Inference.md",
+    "NEEDS COMPLETING/Collider Bias.md",
+    "CBS - Master/SummerUni/Causal Data Science/Do-operator.md",
+    "CBS - Master/SummerUni/Causal Data Science/Total Effects.md",
+    "CBS - Master/SummerUni/Causal Data Science/Direct Effects.md",
+    "CBS - Master/SummerUni/Causal Data Science/Indirect Effects.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Good to Know for Exam - Machine Learning.md",
     "Good to Know for Exam - Causal Data Science.md",
-    "Regularized Linear Regression.md",
-    "Total Effects.md",
-    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
-    "Direct Effects.md",
-    "Indirect Effects.md",
+    "Guide - Data Analysis.md",
+    "Gradient Boosting.md",
+    "CBS - Master/SummerUni/Causal Data Science/Mediation.md",
+    "CBS - Master/SummerUni/Causal Data Science/Transportability.md",
+    "CBS - Master/SummerUni/Causal Data Science/Mediators.md",
+    "CBS - Master/SummerUni/Causal Data Science/Back-door Criterion.md",
     "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "CBS - Master/SummerUni/Causal Data Science/Interventions in Structural Causal Models.md",
+    "CBS - Master/SummerUni/Causal Data Science/Causal Diagram.md",
+    "CBS - Master/SummerUni/Causal Data Science/Causal Discovery.md",
+    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability.md",
+    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability Table.md",
+    "CBS - Master/SummerUni/Causal Data Science/Conditioning a Factor.md",
+    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
+    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230727140905.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230725135307.png",
-    "CBS - Master/SummerUni/General Notes - Machine Learning.md",
-    "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Cluster Analysis.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-means Clustering.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230725111807.png",
-    "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
-    "NEEDS COMPLETING/Collider Bias.md",
-    "CBS - Master/SummerUni/Causal Data Science/Front-door Criterion.md",
-    "CBS - Master/SummerUni/Causal Data Science/Heckman Selection Model.md",
-    "CBS - Master/SummerUni/Causal Data Science/The First Law of Causal Inference.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230723181909.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230723175359.png",
-    "CBS - Master/SummerUni/Causal Data Science/Causal Diagram.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230718143256.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718112421.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718113259.png",

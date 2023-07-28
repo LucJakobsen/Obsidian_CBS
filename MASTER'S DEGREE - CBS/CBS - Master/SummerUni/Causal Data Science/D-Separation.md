@@ -1,4 +1,5 @@
 D-separation are a part of [[Directed Acyclic Graphs]] and are about manipulating the paths within [[Structural Causal Models]]. 
+- So it's that one set of nodes is independent of another set of nodes given a third set
 
 It allows us to say something about the structure of the graph and what they mean for the probabilistic elements of the graphs.
 - Typically we start by creating a [[Causal Diagram]] and then test for independencies (unlike in [[Causal Discovery]]). 
