@@ -11,8 +11,6 @@
 - Conditioning on descendants of colliders also open up the path
 
 
-- Check up on independent and dependent symbols and the types
-
 - Always put in a U when there is an unobserved confounder etc.
 	- Might help to write the interactions
 

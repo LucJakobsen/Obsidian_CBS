@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transportability.md",
+                "file": "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
+                "file": "Transportability.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interven",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,38 +175,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dc2fc5e4a8ea55bb",
+  "active": "e38a067ba493500e",
   "lastOpenFiles": [
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/External Validity.md",
+    "Transportability.md",
+    "Mediators.md",
+    "Mediation.md",
+    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
+    "Good to Know for Exam - Machine Learning.md",
+    "Gradient Boosting.md",
+    "Good to Know for Exam - Causal Data Science.md",
+    "Regularized Linear Regression.md",
+    "Total Effects.md",
+    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
+    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
+    "Direct Effects.md",
+    "Indirect Effects.md",
     "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
     "CBS - Master/SummerUni/Causal Data Science/Interventions in Structural Causal Models.md",
-    "Transportability.md",
-    "Pasted image 20230727140905.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/External Validity.md",
-    "CBS - Master/SummerUni/Summer Uni - Master Links.md",
-    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "Total Effects.md",
-    "Direct Effects.md",
-    "Mediation.md",
-    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
+    "CBS - Master/SummerUni/Images/Pasted image 20230727140905.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230725135307.png",
     "CBS - Master/SummerUni/General Notes - Machine Learning.md",
-    "Good to Know for Exam - Causal Data Science.md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Cluster Analysis.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-means Clustering.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230725111807.png",
     "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
-    "Indirect Effects.md",
-    "Mediators.md",
     "NEEDS COMPLETING/Collider Bias.md",
     "CBS - Master/SummerUni/Causal Data Science/Front-door Criterion.md",
     "CBS - Master/SummerUni/Causal Data Science/Heckman Selection Model.md",
     "CBS - Master/SummerUni/Causal Data Science/The First Law of Causal Inference.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230723181909.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230723175359.png",
-    "Good to Know for Exam - Machine Learning.md",
     "CBS - Master/SummerUni/Causal Data Science/Causal Diagram.md",
-    "CBS - Master/SummerUni/Causal Data Science/Structural Causal Models.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230718143256.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718112421.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230718113259.png",
