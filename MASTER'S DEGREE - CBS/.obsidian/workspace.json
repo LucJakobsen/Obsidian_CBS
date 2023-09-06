@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e38a067ba493500e",
+            "id": "7fe35ac1f3e3e595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEEDS COMPLETING/Collider Bias.md",
+                "file": "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NEEDS COMPLETING/Collider Bias.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NEEDS COMPLETING/Collider Bias.md",
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NEEDS COMPLETING/Collider Bias.md"
+                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md"
               }
             }
           },
@@ -177,6 +177,15 @@
   },
   "active": "fda6b7fbb4fde02a",
   "lastOpenFiles": [
+    "CBS - Master/SummerUni/Causal Data Science/Simpson's Paradox.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
+    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
+    "CBS - Master/SummerUni/Causal Data Science/Transportability.md",
+    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
+    "CBS - Master/SummerUni/Causal Data Science/Selection Bias.md",
+    "CBS - Master/SummerUni/Causal Data Science/Interventions in Structural Causal Models.md",
     "NEEDS COMPLETING/Statistical Independence.md",
     "NEEDS COMPLETING/Probability.md",
     "NEEDS COMPLETING/Path Analysis.md",
@@ -192,17 +201,8 @@
     "Guide - Data Analysis.md",
     "Gradient Boosting.md",
     "CBS - Master/SummerUni/Causal Data Science/Mediation.md",
-    "CBS - Master/SummerUni/Causal Data Science/Transportability.md",
     "CBS - Master/SummerUni/Causal Data Science/Mediators.md",
     "CBS - Master/SummerUni/Causal Data Science/Back-door Criterion.md",
-    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
-    "CBS - Master/SummerUni/Causal Data Science/Causal Diagram.md",
-    "CBS - Master/SummerUni/Causal Data Science/Causal Discovery.md",
-    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability.md",
-    "CBS - Master/SummerUni/Causal Data Science/Conditional Probability Table.md",
-    "CBS - Master/SummerUni/Causal Data Science/Conditioning a Factor.md",
-    "CBS - Master/SummerUni/Causal Data Science/Confounding.md",
-    "CBS - Master/SummerUni/Causal Data Science/Counterfactual Reasoning.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230727140905.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230725135307.png",
     "CBS - Master/SummerUni/Images/Pasted image 20230725111807.png",

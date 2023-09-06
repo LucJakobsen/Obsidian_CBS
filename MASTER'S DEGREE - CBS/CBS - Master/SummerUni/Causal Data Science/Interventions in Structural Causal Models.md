@@ -7,7 +7,7 @@ Interventions are essentially the [[Do-operator]].
 - E.g. 50% of people go to college in Denmark, what would happen if we removed the connection and tried to put everyone into focus
 
 #### The Identification Problem (for interventions)
-The identification basically mean we express something about the post-intervention world without actually having data on it.
+The identification problem basically mean we express something about the post-intervention world without actually having data on it.
 - So e.g. we want to say something about if everyone went to college, without actually sending everyone to college
 	- Because this might be too expensive, impractical, unethical, etc.
 
