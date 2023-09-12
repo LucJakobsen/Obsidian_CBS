@@ -17,6 +17,10 @@ Data is:
 	- So we need to understand the context before we can understand the data
 
 
+- Data has different types - see e.g. [[Data Types (SQL)]]
+- Data can be organized in different structures - see e.g. [[Data Structures (Python)]] [[Data Structures (SQL)]]
+- Data can be stored in various ways, but often we see it put into [[Databases]]
+
 ### Sources of Data
 ![[Pasted image 20230912145715.png]]
 

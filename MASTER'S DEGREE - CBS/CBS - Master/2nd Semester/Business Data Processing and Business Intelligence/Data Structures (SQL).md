@@ -10,8 +10,5 @@ Selection of good structure is important to:
 
 *“In computer science, a data structure is a particular way of organizing data in a computer so that it can be used efficiently. Different kinds of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks.”*
 
-## The Python Structures
-[[Lists (Python)]]
-[[Tuples (Python)]]
-[[Sets (Python)]]
-[[Dictionaries (Python)]]
+
+## The SQL Structures
