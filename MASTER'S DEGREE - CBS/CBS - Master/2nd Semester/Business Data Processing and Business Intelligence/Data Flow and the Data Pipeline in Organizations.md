@@ -6,3 +6,9 @@
 - Warehouse is missing in many cases!
 	- We don't need to aggregate data as much anymore
 
+
+### The Data Pipeline
+![[Pasted image 20230912142820.png]]
+
+- 80% of the time goes into preparing the data, and 20% into presenting it
+

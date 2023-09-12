@@ -1,0 +1,2 @@
+Visual Analytics is a part of [[Business Analytics]] and *"is the science of combining interactive visualizations with analytical reasoning techniques to enable users to understand their data, reflect more effectively, and make better decisions”
+- So it's making graphs and stuff, but also transforming the data and all the preliminary steps and processes
