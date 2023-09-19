@@ -23,7 +23,8 @@ Lecture 2 focused on what data is and the journey of data. Furthermore we looked
 [[Extensible Markup Language (XML)]]
 [[JavaScript Object Notation (JSON)]]
 
-
+#### Lecture 3
+Lecture 3 introduced and focused on relational database management systems
 
 
 

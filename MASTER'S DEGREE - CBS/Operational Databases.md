@@ -1,0 +1,2 @@
+Operational databases are a type of [[Relational Databases]], which are essentially transactional databases for storing business operational data.
+- E.g. Sales transactions, Purchase transactions, Social media interactions etc.

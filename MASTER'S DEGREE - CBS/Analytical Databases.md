@@ -1,0 +1,2 @@
+Analytical Databases are a type of [[Relational Databases]], which focus on the information stored to perform analytical tasks.
+- For example, aggregated data, logs, meta data about procedures, transformed data
