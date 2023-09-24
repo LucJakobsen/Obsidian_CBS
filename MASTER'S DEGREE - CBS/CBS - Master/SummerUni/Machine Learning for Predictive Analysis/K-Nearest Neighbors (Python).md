@@ -30,12 +30,15 @@ The basic idea behind KNN is that we try to predict which category new data will
 
 ### Implementing KNN in Python
 To implement KNN in Python we use:
-``from sklearn.neighbors import KNeighborsClassifier``
+``` Python
+from sklearn.neighbors import KNeighborsClassifier
+```
 
 **Using KNN for classification:**
-``knn = neighbors.KNeighborsClassifier(
-  ``  n_neighbors=5, weights="uniform", p=2, metric="minkowski", algorithm="auto"
-``)
+```Python
+knn = neighbors.KNeighborsClassifier(
+  n_neighbors=5, weights="uniform", p=2, metric="minkowski", algorithm="auto")
 
-``knn.fit(x_train, y_train)
+knn.fit(x_train, y_train)
+```
 

@@ -25,38 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management Systems (DBMS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6791df488b8a185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operational Databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55703a57d9bda525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+                "file": "Structured Query Language (SQL).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+                "file": "Structured Query Language (SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+                "file": "Structured Query Language (SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md"
+                "file": "Structured Query Language (SQL).md"
               }
             }
           },
@@ -209,43 +185,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "55703a57d9bda525",
+  "active": "c8cf9e7fe5a69eea",
   "lastOpenFiles": [
+    "Data Definition Language (DDL).md",
+    "Data Manipulation Language (DML).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Types (SQL).md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230924135744.png",
+    "Structured Query Language (SQL).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+    "Relational Database Design.md",
+    "Database Normalization.md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230924130538.png",
+    "ER Models (Entity Relation Design).md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230924113744.png",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Extensible Markup Language (XML).md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230924113827.png",
+    "Relational Databases.md",
+    "DBMS Keys.md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230924112207.png",
+    "Database Management Systems (DBMS).md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230924104611.png",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Tuples (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Structures (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-Nearest Neighbors (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/K-means Clustering.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Decision Trees.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Collection in Python.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Control Flow.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Cluster Analysis.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Built-in Functions (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Bootstrap Aggregation.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Indexing (Python).md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Gradient Boosting.md",
+    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Machine Learning.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Databases.md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230920131916.png",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230920134346.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230919130550.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230919130115.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230919130053.png",
-    "Relational Databases.md",
-    "ER Models (Entity Relation Design).md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230919122623.png",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Databases.md",
-    "Analytical Databases.md",
-    "Operational Databases.md",
-    "Database Management Systems (DBMS).md",
-    "CBS - Master/2nd Semester/2nd Semester Master Links.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/JavaScript Object Notation (JSON).md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/The Journey of Data.md",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230912204838.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230912204514.png",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Extensible Markup Language (XML).md",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230912204059.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230912204016.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230912203655.png",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Delimited Text Files.md",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230912203501.png",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Validity.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Structures (SQL).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Structures (Python).md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Types (SQL).md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Business Intelligence.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Mining.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Techniques Required for Data Scientists.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Business Analytics.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Knowledge Discovery from Data (KDD).md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Predictive Analytics.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Visual Analytics.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Flow and the Data Pipeline in Organizations.md",
     "Untitled",
     "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence",
     "CBS - Master/2nd Semester/Images",

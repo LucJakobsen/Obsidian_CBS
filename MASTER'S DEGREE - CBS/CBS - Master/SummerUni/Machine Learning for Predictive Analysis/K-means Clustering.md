@@ -12,7 +12,7 @@ The basic idea is we make a random guess and then assign the nearby values to cl
 
 ## K-means Clustering in Python
 To implement the k-means clustering, we can use the `KMeans` class from the `cluster` module in the `sklearn` library:
-```
+``` Python
 from sklearn.cluster import KMeans
 import numpy as np
 
@@ -26,7 +26,7 @@ kmeans.fit(x)
 There are several data-driven methods available to determine the optimal value of K in K-means clustering. One of the popular techniques is known as the **elbow method**. Essentially, for each value of K, we calculate the within-cluster sum of squares (WSS or WCSS) value. As the value of K increases, the WCSS value begins to decrease. The largest WCSS value occurs when K=1, representing a single cluster.
 
 In practice, we can use `KElbowVisualizer` from `yellowbrick.cluster` to implement the elbow method to find the optimal number of clusters by fitting the model with a range of values.
-```
+``` Python
 from yellowbrick.cluster import KElbowVisualizer
 
 kmeans_search = KMeans(n_init="auto")

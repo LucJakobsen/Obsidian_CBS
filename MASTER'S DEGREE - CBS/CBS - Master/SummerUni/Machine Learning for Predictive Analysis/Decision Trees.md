@@ -26,7 +26,7 @@ To prevent overfitting and improve generalization we can perform [[Tree Pruning]
 **Visualizing the tree**
 We can use `export_graphviz` to generate tree graph
 
-```
+```Python
 from sklearn.tree import export_graphviz
 import pydotplus
 from IPython.display import Image

@@ -1,4 +1,4 @@
-Tuples are a [[Data Structures (Python)|data structure]] similar to [[Lists (Python)|lists]], but the difference is the elements in side a list can be changed, in a tuple they can't.
+Tuples are a [[Data Structures (Python)|data structure]] similar to [[Lists (Python)|lists]], but the difference is the elements inside a list can be changed, in a tuple they can't.
 - Therefore Tuples follow the same indexing and slicing as Lists.
 
 To define a tuple, A variable is assigned to `paranthesis( )` or `tuple( )`.

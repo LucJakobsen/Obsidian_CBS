@@ -1,5 +1,6 @@
 Database Management Systems (DBMS) is software that allows users and applications to interact with [[Databases]]. So it facilitates the creation, use, and maintainability of databases.
 
+An example being [[Relational Databases]] Management Systems.
 
 DBMS contains information about a particular enterprise
 - Collection of interrelated data 
