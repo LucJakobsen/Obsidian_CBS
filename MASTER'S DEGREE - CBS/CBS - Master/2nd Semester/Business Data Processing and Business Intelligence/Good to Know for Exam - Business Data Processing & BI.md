@@ -2,6 +2,8 @@
 - An entity has attributes, which describe the properties or characteristics of the entity. In a relational database, these attributes become the columns of the table. 
 	- For example, an entity "Person" might have attributes like "FirstName", "LastName", "DateOfBirth", etc.
 
+- "--" will make a comment
+
 - Fact tables always have the one-to-many relation / many-sided
 	- Dimension tables always have the one-sided
 
@@ -14,6 +16,16 @@
 
 - Always create the parent table first
 
+- If you EVER use a function (e.g. sum(price)) and combine it with a column outside the function, you HAVE to use "Groupby"
+	- E.g.
+		```SQL
+		Select PID, SUM(Price)
+		From ProductSale
+		Group by PID
+```
+
+
 ### Good things to include:
 - Map the database via an [[ER Models (Entity Relation Design)]]
+- Use views (see [[SQL Queries]]) to choose the data you want to include
 - 

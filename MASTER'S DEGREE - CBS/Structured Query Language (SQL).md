@@ -1,9 +1,9 @@
 Structured Query Language (SQL) is the language to communicate with RDBMS ([[Relational Databases]]) to perform operations. Generally there are two kind of operations:
-1. [[Data Definition Language (DDL)]]
-2. [[Data Manipulation Language (DML)]]
+1. [[Data Definition Language (DDL)]] (creating the database structure)
+2. [[Data Manipulation Language (DML)]] (handling the database data)
 
 #### FOR COMMANDS IN SQL SEE DDL AND DML ABOVE ^
-
+### FOR SQL QUERIES IN GENERAL AND MORE SEE [[SQL Queries]]
 
 ### Quick Overview of SQL
 1. **Purpose**: SQL is used to communicate with a database. It allows users to access, modify, and manage data in a structured way.

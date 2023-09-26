@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structured Query Language (SQL).md",
+                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structured Query Language (SQL).md",
+                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structured Query Language (SQL).md",
+                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structured Query Language (SQL).md"
+                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md"
               }
             }
           },
@@ -187,12 +187,21 @@
   },
   "active": "c8cf9e7fe5a69eea",
   "lastOpenFiles": [
+    "CBS - Master/2nd Semester/Images/Pasted image 20230926143647.png",
+    "SQL Queries.md",
+    "Joins (SQL).md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230926143754.png",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230926143623.png",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+    "Structured Query Language (SQL).md",
+    "CBS - Master/1st Semester/1st Semester Master-links.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
+    "SELECT, FROM, and WHERE Clause (SQL.md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230926121626.png",
     "Data Definition Language (DDL).md",
     "Data Manipulation Language (DML).md",
     "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Types (SQL).md",
     "CBS - Master/2nd Semester/Images/Pasted image 20230924135744.png",
-    "Structured Query Language (SQL).md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
     "Relational Database Design.md",
     "Database Normalization.md",
     "CBS - Master/2nd Semester/Images/Pasted image 20230924130538.png",
@@ -213,16 +222,6 @@
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Collection in Python.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Control Flow.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Cluster Analysis.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Built-in Functions (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Bootstrap Aggregation.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Indexing (Python).md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Gradient Boosting.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Machine Learning.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Databases.md",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230920131916.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230920134346.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230919130550.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230919130115.png",
     "Untitled",
     "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence",
     "CBS - Master/2nd Semester/Images",
