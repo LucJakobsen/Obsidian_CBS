@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md",
+                "file": "Joins (SQL).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md",
+                "file": "Joins (SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md",
+                "file": "Joins (SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md"
+                "file": "Joins (SQL).md"
               }
             }
           },
@@ -174,8 +174,12 @@
   },
   "active": "dc2fc5e4a8ea55bb",
   "lastOpenFiles": [
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Extensible Markup Language (XML).md",
+    "ER Models (Entity Relation Design).md",
+    "DBMS Keys.md",
+    "Data Manipulation Language (DML).md",
+    "Data Definition Language (DDL).md",
     "CBS - Master/2nd Semester/2nd Semester Master Links.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Extensible Markup Language (XML).md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
     "SELECT, FROM, and WHERE Clause (SQL).md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Sampling.md",
@@ -196,10 +200,6 @@
     "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimentation.md",
-    "Data Definition Language (DDL).md",
-    "Analytical Databases.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Independent Variable.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Good to Know for Exam - Machine Learning.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230727140905.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143754.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143647.png",
