@@ -26,6 +26,7 @@ Lecture 2 focused on what data is and the journey of data. Furthermore we looked
 #### Lecture 3
 Lecture 3 introduced and focused on relational database management systems
 
+#### Lecture 4
 
 
 
