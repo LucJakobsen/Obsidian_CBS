@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
+                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reliability",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
+                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
+                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md"
+                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md"
               }
             }
           },
@@ -173,13 +172,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bb8eaf7532bbfe78",
+  "active": "dc2fc5e4a8ea55bb",
   "lastOpenFiles": [
+    "CBS - Master/1st Semester/1st Semester Master-links.md",
+    "SELECT, FROM, and WHERE Clause (SQL).md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Sampling.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Surveys.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Survey Modes.md",
-    "CBS - Master/1st Semester/1st Semester Master-links.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Construct Validity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Sampling.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Structural Equation Modeling (SEM).md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Path Model.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confirmatory Factor Analysis (CFA).md",
@@ -188,7 +189,6 @@
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Total Survey Error (TSE).md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Items.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Area Under the ROC Curve (AUC).md",
     "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
@@ -200,7 +200,6 @@
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Independent Variable.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Good to Know for Exam - Machine Learning.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Polynomial Regression.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Gradient Boosting.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230727140905.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143754.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143647.png",

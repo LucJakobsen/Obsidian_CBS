@@ -6,7 +6,7 @@ R = represents a relation
 P = is a predicate
 
 ## The SELECT, FROM, and WHERE Clause
-See [[SELECT, FROM, and WHERE Clause (SQL]]
+See [[SELECT, FROM, and WHERE Clause (SQL)]]
 
 ## Common SQL Queries
 1. **SELECT** - Retrieve data from one or more tables.
