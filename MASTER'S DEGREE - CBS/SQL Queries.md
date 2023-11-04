@@ -4,7 +4,8 @@ SQL queries are commands used to communicate with and manipulate databases using
 A = represents an attribute
 R = represents a relation
 P = is a predicate
-
+#### For the advanced queries see:
+[[Advanced (Analytical) SQL Functions]]
 ## The SELECT, FROM, and WHERE Clause
 See [[SELECT, FROM, and WHERE Clause (SQL)]]
 
