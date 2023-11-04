@@ -11,8 +11,12 @@
             "id": "d09a6dc8b37652f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MASTER'S DEGREE - CBS/Joins (SQL).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "18b0026b2857b400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MASTER'S DEGREE - CBS/Joins (SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MASTER'S DEGREE - CBS/Joins (SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MASTER'S DEGREE - CBS/Joins (SQL).md"
+              }
             }
           }
         ]
@@ -139,5 +155,7 @@
     }
   },
   "active": "d09a6dc8b37652f6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "MASTER'S DEGREE - CBS/SQL Queries.md"
+  ]
 }
