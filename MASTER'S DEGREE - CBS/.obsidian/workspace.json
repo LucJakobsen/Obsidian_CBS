@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+                "file": "SQL Queries.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "views",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+                "file": "SQL Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+                "file": "SQL Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md"
+                "file": "SQL Queries.md"
               }
             }
           },
@@ -187,12 +188,14 @@
   },
   "active": "c8cf9e7fe5a69eea",
   "lastOpenFiles": [
-    "CBS - Master/2nd Semester/Images/Pasted image 20230926143647.png",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Business Intelligence.md",
+    "Advanced (Analytical) SQL Functions.md",
     "SQL Queries.md",
+    "CBS - Master/2nd Semester/Images/Pasted image 20230926143647.png",
     "Joins (SQL).md",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143754.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143623.png",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
     "Structured Query Language (SQL).md",
     "CBS - Master/1st Semester/1st Semester Master-links.md",
     "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/STATA Commands.md",
@@ -221,7 +224,6 @@
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Decision Trees.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Data Collection in Python.md",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Control Flow.md",
-    "CBS - Master/SummerUni/Machine Learning for Predictive Analysis/Cluster Analysis.md",
     "Untitled",
     "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence",
     "CBS - Master/2nd Semester/Images",
