@@ -24,7 +24,6 @@ To help ensure correct results and predictions, researchers can take measures to
 -   Big data cannot always explain everything - sometimes we need better insight into feelings, perceptions etc.
 	-   E.g. user experience
 
-
 #### How to Create a Survey
 Survey system is comprised of seven activities (Arlene Fink, 2003)
 
