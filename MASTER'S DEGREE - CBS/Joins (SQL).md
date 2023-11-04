@@ -11,8 +11,6 @@ A [[Structured Query Language (SQL)]] is a type of [[SQL Queries]]. JOIN combine
 SELECTS records with the matching values in both tables
 ![[Pasted image 20230926143623.png]]
 
-hey
-
 Example: 
 ```SQL
 select * from student join takes on student.ID = takes.ID;
