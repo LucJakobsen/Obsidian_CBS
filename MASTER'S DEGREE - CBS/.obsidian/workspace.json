@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joins (SQL).md",
+                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/SQL Queries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7f1b35697197bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Advanced (Analytical) SQL Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4699aad8ec8793e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/2nd Semester/2nd Semester Master Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cd4e44ebfe157a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/3rd Semester/3rd Semester Master Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5a3fe0b2e2bf0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/1st Session Readings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joins (SQL).md",
+                "file": "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/1st Session Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joins (SQL).md",
+                "file": "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/1st Session Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joins (SQL).md"
+                "file": "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/1st Session Readings.md"
               }
             }
           },
@@ -151,7 +200,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -172,34 +223,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dc2fc5e4a8ea55bb",
+  "active": "e5a3fe0b2e2bf0b7",
   "lastOpenFiles": [
-    "ER Models (Entity Relation Design).md",
-    "DBMS Keys.md",
-    "Data Manipulation Language (DML).md",
-    "Data Definition Language (DDL).md",
+    "CBS - Master/3rd Semester/3rd Semester Master Links.md",
+    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/1st Session Readings.md",
+    "CBS - Master/SummerUni/Causal Data Science/Book of Why Readings.md",
     "CBS - Master/2nd Semester/2nd Semester Master Links.md",
-    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Extensible Markup Language (XML).md",
-    "CBS - Master/1st Semester/1st Semester Master-links.md",
-    "SELECT, FROM, and WHERE Clause (SQL).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Sampling.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Within-subject Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Surveys.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Survey Modes.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Construct Validity.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Structural Equation Modeling (SEM).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Path Model.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confirmatory Factor Analysis (CFA).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Loadings.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Levels of Measurement.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Total Survey Error (TSE).md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Items.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Between-subject Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experiment.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Area Under the ROC Curve (AUC).md",
-    "CBS - Master/SummerUni/General Notes - Causal Data Science.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Confounding Procedures.md",
-    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Experimentation.md",
+    "3rd Semester Master Lin",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Structured Query Language (SQL).md",
+    "CBS - Master/3rd Semester/Images",
+    "CBS - Master/3rd Semester/Consumer Psychology",
+    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication",
+    "CBS - Master/3rd Semester",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Advanced (Analytical) SQL Functions.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/ER Models (Entity Relation Design).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/DBMS Keys.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Good to Know for Exam - Business Data Processing & BI.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Types (SQL).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Joins (SQL).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Analytical Databases.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Relational Databases.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Operational Databases.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Database Normalization.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/SQL Queries.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Definition Language (DDL).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Relational Database Design.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Cross-sectional Dataset.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Business Intelligence.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Databases.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Database Management Systems (DBMS).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Data Manipulation Language (DML).md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/The Journey of Data.md",
+    "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence/Delimited Text Files.md",
     "CBS - Master/SummerUni/Images/Pasted image 20230727140905.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143754.png",
     "CBS - Master/2nd Semester/Images/Pasted image 20230926143647.png",
@@ -214,12 +270,7 @@
     "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence",
     "CBS - Master/2nd Semester/Images",
     "CBS - Master/2nd Semester",
-    "Untitled",
     "CBS - Master/SummerUni/Machine Learning for Predictive Analysis",
-    "CBS - Master/SummerUni/Images",
-    "CBS - Master/SummerUni/Causal Data Science/FILL OUT LATER",
-    "CBS - Master/SummerUni/Causal Data Science",
-    "CBS - Master/SummerUni",
     "Untitled.canvas"
   ]
 }
