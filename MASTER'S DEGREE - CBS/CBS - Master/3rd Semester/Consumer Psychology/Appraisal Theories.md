@@ -1,4 +1,4 @@
-Appraisal theories link cognitions with emotions, and thereby explain how emotions arise.
+Appraisal theories link cognitions with [[Emotions]], and thereby explain how emotions arise.
 - Examples include e.g., Arnold 1970; Frijda 1986; Smith and Ellsworth 1985
 
 So they are a group of theories in psychology that explain how people's evaluations (appraisals) of events, situations, or stimuli lead to specific emotional reactions
