@@ -1,0 +1,3 @@
+Confirmation bias is a cognitive [[Bias]] that influences individuals to favor, seek out, interpret, and remember information in a way that confirms their preexisting beliefs, hypotheses, or expectations, while giving disproportionately less consideration to alternative viewpoints or contradictory information
+
+It therefore relates a lot to [[Balance Theory (Heider 1958)]] and [[Cognitive Dissonance Theory (Festinger 1957)]]. 

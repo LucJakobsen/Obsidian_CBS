@@ -20,4 +20,16 @@ The first session continued to focus of emotions and their role in consumerism b
 The first session focused on the course structure, assignments, and exam. There was a bit of theory on attitudes and emotions but nothing that deep.
 
 #### Lecture 2
+The second lecture focused on explaining mental representations and how they relate to consumer behaviour. Basically explaining how we mentally view things etc. influence our consumption
+[[Mental Representations]]
+[[Consumer Images]]
+[[Dual Processes of the Mind]]
+[[Balance Theory (Heider 1958)]]
+[[Dialecticism]]
+
+#### Lecture 3
+Lecture 3 focused on explaining what emotions are and how they relate to consumer behaviour and consumption. 
+[[Emotions]]
+
+
 
