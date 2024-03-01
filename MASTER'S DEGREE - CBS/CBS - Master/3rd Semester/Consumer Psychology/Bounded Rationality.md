@@ -1,0 +1,2 @@
+Bounded rationality is a concept that suggests that individuals are limited in their capacity to process information, understand all available options, and make perfectly rational decisions due to constraints in time, cognitive resources, and available information.
+- It was proposed by economist Herbert A. Simon in the 1950s,

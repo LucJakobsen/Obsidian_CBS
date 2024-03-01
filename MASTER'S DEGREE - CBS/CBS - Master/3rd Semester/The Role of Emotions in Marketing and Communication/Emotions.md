@@ -1,6 +1,8 @@
 Emotions are a complex psychological (but also physical) state which are deeply integrated into our brain's processing of experiences and decision-making. 
 - Put differently, they are complex feelings that are elicited by a person, an object or an event.
 
+Emotions are therefore also a key part for making decisions as further explain in [[Emotions & Decision-making]]
+
 However, there is no clear definition of emotions, but can be seen as *responses to events that are important to us*
 
 1. **Emotions as Physical States**: Damasio describes emotions as physical states arising from the body's responses to external stimuli. These states are part of a complex system involving both the body and the brain.

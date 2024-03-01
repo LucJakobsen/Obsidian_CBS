@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5a3fe0b2e2bf0b7",
+            "id": "337c0cd586815007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS - Master/3rd Semester/3rd Semester Master Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e79a90cb9d30ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/3rd Semester/Consumer Psychology/Signaling Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b612e86999c374f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/3rd Semester/Consumer Psychology/Mental Representations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c20e2e2d2e771ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/3rd Semester/Consumer Psychology/Dual Processes of the Mind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "382fe878c39a76ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBS - Master/3rd Semester/Consumer Psychology/The Bipolar Valence-Arousal Structure.md",
+                "file": "CBS - Master/3rd Semester/Consumer Psychology/Adaptation vs. Standardization.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,12 +93,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS - Master/3rd Semester/3rd Semester Master Links.md",
+                "file": "CBS - Master/3rd Semester/Consumer Psychology/Adaptation vs. Standardization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "system 1",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS - Master/3rd Semester/3rd Semester Master Links.md",
+                "file": "CBS - Master/3rd Semester/Consumer Psychology/Adaptation vs. Standardization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS - Master/3rd Semester/3rd Semester Master Links.md"
+                "file": "CBS - Master/3rd Semester/Consumer Psychology/Adaptation vs. Standardization.md"
               }
             }
           },
@@ -222,40 +174,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e5a3fe0b2e2bf0b7",
+  "active": "fda6b7fbb4fde02a",
   "lastOpenFiles": [
-    "CBS - Master/3rd Semester/Consumer Psychology/Appraisal Theories.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Balance Theory (Heider 1958).md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Basic Emotions.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Brand Image.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Cognitive Dissonance Theory (Festinger 1957).md",
-    "CBS - Master/3rd Semester/Consumer Psychology/The Facial Feedback Theory.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/The Bipolar Valence-Arousal Structure.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Stimulus-response Theory.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Stereotyping.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Signaling Theory.md",
     "CBS - Master/3rd Semester/3rd Semester Master Links.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Confirmation Bias.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Consumer Images.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Adaptation vs. Standardization.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Country of Origin Image & Effect.md",
     "CBS - Master/3rd Semester/Consumer Psychology/Country Image.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Destination Image.md",
-    "CBS - Master/3rd Semester/Consumer Psychology/Dialecticism.md",
-    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/Emotions.md",
-    "CBS - Master/3rd Semester/Images/Pasted image 20240208190608.png",
-    "CBS - Master/3rd Semester/Images/Pasted image 20240208190537.png",
-    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/Universal Emotions.md",
-    "CBS - Master/3rd Semester/Images/Pasted image 20240208161539.png",
-    "CBS - Master/3rd Semester/Images/Pasted image 20240208155731.png",
-    "CBS - Master/3rd Semester/Consumer Psychology/Dual Processes of the Mind.md",
-    "CBS - Master/2nd Semester/Research Methods for Digital Business/Information Systems Theory.md",
-    "CBS - Master/3rd Semester/Images/Pasted image 20240208105253.png",
+    "CBS - Master/3rd Semester/Consumer Psychology/Summary Image.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Halo Image.md",
     "CBS - Master/3rd Semester/Consumer Psychology/Mental Representations.md",
-    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/Papers/Bargh, J. (2002). Losing Consciousness.md",
-    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/Papers/Hirschman, E. and Holbrook, M. (1982). Hedonic Consumption.md",
-    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/Papers/Frijda, N. (1988). The Laws of Emotion.md",
-    "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/Papers/Ekman, P. (1993). Facial Expression and Emotion.md",
-    "CBS - Master/3rd Semester/Images/Pasted image 20240207151226.png",
-    "CBS - Master/3rd Semester/Images/Pasted image 20240207151043.png",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240225122920.png",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240225113503.png",
+    "CBS - Master/3rd Semester/Consumer Psychology/Consumer Images.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Culture.md",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240225111219.png",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240225112055.png",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240225110329.png",
+    "CBS - Master/3rd Semester/Consumer Psychology/International Consumer Psychology.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Affiliation.md",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240223115719.png",
+    "CBS - Master/3rd Semester/Consumer Psychology/Framework of Fundamental Motives and Consumption.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Attaining Status.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Luxury Consumer Segmentation.md",
+    "Pasted image 20240223115657.png",
+    "CBS - Master/3rd Semester/Consumer Psychology/Conspicuous Consumption.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Evading Physical Harm.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Avoiding Disease.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Avoiding Foreigners - Xenophobia.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Anthropomorphism - Wide Face.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Mismatch Theory.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Preference for the Status Quo & Endowment Effect.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Error Management Theory.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Regulatory Focus.md",
+    "CBS - Master/3rd Semester/Consumer Psychology/Evolutionary Psychology.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Type 1 Error.md",
+    "CBS - Master/1st Semester/Applying Data Analytics in Digital Business/Type 2 Error.md",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240223075826.png",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240219151251.png",
+    "CBS - Master/3rd Semester/Images/Pasted image 20240217145354.png",
     "Untitled",
     "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication/Papers",
     "3rd Semester Master Lin",
@@ -263,9 +219,6 @@
     "CBS - Master/3rd Semester/Consumer Psychology",
     "CBS - Master/3rd Semester/The Role of Emotions in Marketing and Communication",
     "CBS - Master/3rd Semester",
-    "CBS - Master/SummerUni/Images/Pasted image 20230727140905.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230926143754.png",
-    "CBS - Master/2nd Semester/Images/Pasted image 20230926143647.png",
     "CBS - Master/2nd Semester/Research Methods for Digital Business",
     "CBS - Master/2nd Semester/Business Data Processing and Business Intelligence",
     "CBS - Master/2nd Semester/Images",

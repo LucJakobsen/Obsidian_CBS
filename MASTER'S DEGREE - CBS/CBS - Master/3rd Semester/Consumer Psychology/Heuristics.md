@@ -1,0 +1,2 @@
+ Heuristics are mental shortcuts or rules of thumb that simplify decision-making processes. They allow individuals to make quick, often efficient judgments and decisions with minimal cognitive effort by relying on past experiences and immediate perceptions.
+  - In this way they relate to the system 1 thinking as presented in [[Kahneman, D. (2003). A Perspective on Judgment and Choice]]. See also [[Dual Processes of the Mind]]

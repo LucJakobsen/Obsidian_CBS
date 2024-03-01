@@ -8,7 +8,7 @@ Generally we look at two ways in which we make decisions:
 
 These approaches are also sometimes called system 1 and system 2 thinking
 
-Individuals can use different heuristics to make adequate decisions
+Individuals can use different [[Heuristics]] to make adequate decisions
 - So not as good as the systematic but still good enough generally
 
 

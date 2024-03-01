@@ -1,0 +1,1 @@
+Summary image is subcategory of [[Mental Representations]] within [[Country Image]]. It refers to how the [[Country of Origin Image & Effect|COO Image]] is an overall evaluation stored in consumers memory and derived from prior experiences the consumer had with same or similar products from that country

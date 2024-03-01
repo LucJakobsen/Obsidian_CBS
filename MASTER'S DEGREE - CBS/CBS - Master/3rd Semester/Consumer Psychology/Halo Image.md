@@ -1,0 +1,1 @@
+Halo image is subcategory of [[Mental Representations]] within [[Country Image]]. It refers to how consumers use the [[Country of Origin Image & Effect|COO image]] as a proxy for product quality because they have no prior experience with this kind of product from this country
