@@ -75,7 +75,9 @@ Lecture 7 focused on the international aspect of consumer psychology, such as th
 [[Culture]]
 [[Adaptation vs. Standardization]]
 
-
+#### Lecture 8 
+Lecture 8 explained stereotyping in more details - especially in terms of country stereotyping. As well as some more concepts related to consumer bias.
+[[Stereotyping]]
 
 
 

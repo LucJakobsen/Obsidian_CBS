@@ -1,0 +1,4 @@
+Social Identity Theory, developed by Henri Tajfel and John Turner in the 1970s, is a psychological theory that explains how people's self-concepts are based on their membership in social groups. It is related to [[Consumer Biases]].
+
+According to the theory, individuals categorize themselves and others into various social groups (e.g., by nationality, religion, gender), which provides a source of pride and self-esteem.
+- So it predicts certain intergroup behaviors on the basis of perceived group status differences, the perceived legitimacy and stability of those status differences, and the perceived ability to move from one group to another

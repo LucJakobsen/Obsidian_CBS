@@ -1,4 +1,4 @@
-The anchoring effect is a cognitive bias that occurs when individuals rely too heavily on an initial piece of information (the "anchor") to make subsequent judgments or decisions. 
+The anchoring effect is a cognitive [[Bias]] ([[Consumer Biases]]) that occurs when individuals rely too heavily on an initial piece of information (the "anchor") to make subsequent judgments or decisions. 
 - Once an anchor is set, there's a tendency to bias one's thoughts and decisions towards that initial information, even if it's unrelated or arbitrary.
 
 In the context of Kahneman's work ([[Kahneman, D. (2003). A Perspective on Judgment and Choice]]), "anchors" refer to initial reference points or specific values that individuals use as starting points in making judgments or decisions. When people consider a value as a potential answer to a question, that value becomes a potent anchor.

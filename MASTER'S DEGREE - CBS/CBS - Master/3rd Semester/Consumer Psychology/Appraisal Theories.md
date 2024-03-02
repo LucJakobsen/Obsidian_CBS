@@ -4,7 +4,7 @@ Appraisal theories link cognitions with [[Emotions]], and thereby explain how em
 So they are a group of theories in psychology that explain how people's evaluations (appraisals) of events, situations, or stimuli lead to specific emotional reactions
 
 
-### Appraisal
+### [[Appraisals]]
 Appraisal is how we think about and judge something based on how important it is to our own happiness and well-being (stimuli)
 
 What we evaluate and think about can be an event - "event" can be an incident, episode, a behavior of oneself or someone else, or an object, person or thought that has personal meaning
