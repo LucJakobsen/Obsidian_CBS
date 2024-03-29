@@ -1,0 +1,3 @@
+Consumer affinity refers to a positive emotional connection a consumer has with a brand or product from a foreign country, which goes beyond mere preference. It is characterized by feelings of kinship or appreciation and can be influenced by personal experiences, cultural ties, or positive perceptions of the country of origin
+- Consumer affinity is often associated with immigrants having a preference for the country they come from.
+- It is a part of the [[The Consumer Attraction‐Repulsion Matrix]]

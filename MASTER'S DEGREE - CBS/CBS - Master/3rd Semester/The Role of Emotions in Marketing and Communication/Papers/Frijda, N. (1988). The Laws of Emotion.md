@@ -18,6 +18,7 @@ That emotions arise as response to specific types of events. *"Input some event 
 ### The Law of Concern
 Emotions are related to things that individuals care about, reflecting personal goals, motives, or concerns.
 - Emotions are the prime material for explaining what a person is concerned about
+
 ### The Law of Apparent Reality
 The intensity of emotions corresponds to the perceived realness of an event.
 - Knowing means less that seeing, feeling means more than knowing

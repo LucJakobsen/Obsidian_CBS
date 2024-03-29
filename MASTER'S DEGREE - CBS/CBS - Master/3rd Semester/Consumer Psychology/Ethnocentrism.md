@@ -8,7 +8,11 @@ It is a sociological and psychological viewpoint where individuals judge other c
 Consumer ethnocentrism extends this concept to consumer behavior. It describes the phenomenon where consumers prefer goods and services from their own country over those from other countries. 
 - Consumer ethnocentrism can be influenced by a sense of national identity, patriotic feelings, and concerns about the local economy, employment, and the perceived threats from foreign competition.
 - So it's linked to the [[Country Image]]
-
+- And is a part of the [[The Consumer Attraction‐Repulsion Matrix]]
 #### Moderators Related to Consumer Ethnocentrism
 - **Disposable income**: Individuals with higher disposable income tend to be less ethnocentric  
 - **Education** is another moderator
+
+### How can Managers Use Ethnocentrism
+- Generally by [[Priming]]
+

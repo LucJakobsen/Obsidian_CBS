@@ -1,7 +1,6 @@
 ## The Role of Emotions in Marketing and Communication
 #### Lecture 1
-The first session focused on what emotions are and why are they  
-important for marketing. 
+The first session focused on what emotions are and why are they important for marketing. 
 [[Bargh, J. (2002). Losing Consciousness]]
 [[Hirschman, E. and Holbrook, M. (1982). Hedonic Consumption]]
 [[Universal Emotions]]
@@ -68,6 +67,7 @@ Lecture 6 focused on the idea of evolutionary psychology and how it can help us 
 [[Mismatch Theory]]
 [[Error Management Theory]]
 [[Framework of Fundamental Motives and Consumption]]
+
 #### Lecture 7
 Lecture 7 focused on the international aspect of consumer psychology, such as through country image, culture, etc.
 [[International Consumer Psychology]]
@@ -78,6 +78,34 @@ Lecture 7 focused on the international aspect of consumer psychology, such as th
 #### Lecture 8 
 Lecture 8 explained stereotyping in more details - especially in terms of country stereotyping. As well as some more concepts related to consumer bias.
 [[Stereotyping]]
+[[Ethnocentrism]]
+[[Consumer Biases]]
+[[The Dissimilarity Hypothesis]]
+[[Similarity-Attraction Theory]]
 
+#### Lecture 9
+Lecture 9 continued where lecture 6 left off in terms of evolutionary psychology and the presented framework, by focusing on acquiring stats, mate retention, etc.
+[[Evolutionary Psychology]]
+[[Framework of Fundamental Motives and Consumption]]
+[[Acquiring a Mate]]
+[[Retaining the Mate]]
+[[Caring for Family]]
+[[Behavioral Ecology]]
 
+#### Lecture 10
+Lecture 10 continued with evolutionary psychology through the lens of evolution and how it has affected our consumption.
+[[Evolutionary Psychology]]
+[[Evolutionary Aesthetics]]
+[[Sexually Selective Cognition]]
+[[Exploration]]
+[[Consumption of Painful Activities]]
 
+#### Lecture 11
+Lecture 11 focused on consumer-wellbeing, especially by looking at the relationship between money and happiness. The concept of nudging was also introduced
+[[Money & Happiness]]
+[[Principle 1 (For Increasing Consumer Happiness)]]
+[[Principle 2 (For Increasing Consumer Happiness)]]
+[[Principle 3 (For Increasing Consumer Happiness)]]
+[[Principle 4 (For Increasing Consumer Happiness)]]
+[[Principle 5 (For Increasing Consumer Happiness)]]
+[[Nudging]]

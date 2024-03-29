@@ -11,7 +11,7 @@ Humans cope with [[Bounded Rationality]] by using [[Heuristics]].
 In fact, Consumers are more likely to rely on their feelings because feelings are often  
 elicited immediately on exposure to a new stimulus, before cognition (Pham et al.  
 2001).  
-- Similar to system 1 thinking from [[Kahneman, D. (2003). A Perspective on Judgment and Choice]] / [[Dual Processes of the Mind]
+- Similar to system 1 thinking from [[Kahneman, D. (2003). A Perspective on Judgment and Choice]] / [[Dual Processes of the Mind]]
 - As such, people can experience emotions about an object, and acting on these emotions, before thinking about that object (Zajonc and Markus 1982).  
 Zajonc (1984) suggests [[The Mere-Exposure Effect]]
 

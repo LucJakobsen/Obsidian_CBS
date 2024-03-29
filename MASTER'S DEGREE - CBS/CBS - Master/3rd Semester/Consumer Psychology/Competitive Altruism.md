@@ -1,0 +1,4 @@
+Competitive altruism is a concept from social psychology and evolutionary biology that is related to [[Attaining Status]] and describes a behavior where individuals compete to be the most altruistic. The idea is that by acting generously and helpfully, an individual can gain social status, reputation, and reciprocal benefits, which can ultimately increase their own chances of success.
+
+Competitive altruism (Hardy and Van Vugt 2006): People compete for status through prosocial behaviors (Philanthropy)
+- Accordingly, activating a status motive can lead people to spend more money on others than on themselves (Rucker, DuBois and Galinsky, 2011)

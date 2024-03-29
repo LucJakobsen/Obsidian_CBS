@@ -15,6 +15,8 @@ Consumer [[Bias|biases]] are the unconscious influences on buying behavior that 
 
 Examples can also be the [[Halo Image]] 
 
+Other examples can be seen in the [[The Consumer Attraction‐Repulsion Matrix]]
+
 ## In and Out Group Theory
 In general, consumer biases rely broadly on "in and out group theory". 
 - A key theory in in and out group theory is the [[Social Identity Theory]]

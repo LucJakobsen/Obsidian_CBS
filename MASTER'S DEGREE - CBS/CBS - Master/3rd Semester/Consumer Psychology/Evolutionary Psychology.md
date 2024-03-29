@@ -19,7 +19,7 @@ This image uses an island metaphor to illustrate two types of motives in evoluti
 - "Proximate Motive," which is the immediate reason for a behavior (like eating when hungry), 
 - "Ultimate Motive," which is the evolutionary purpose of a behavior (like eating to survive and reproduce). 
 - The palm trees labeled "Plasticity" indicate that these motives can adapt or change due to environmental factors.
-- The "Ecology" part of the island represents the environmental context that shapes and influences both the immediate, proximate motives and the deeper, evolutionary ultimate motives for behaviors.
+- The "Ecology" ([[Behavioral Ecology]]) part of the island represents the environmental context that shapes and influences both the immediate, proximate motives and the deeper, evolutionary ultimate motives for behaviors.
 
 ### Short History of Human Behaviour Views
 - **The ghost in the machine:** The soul makes choices free from biology (dominant for most centuries).  
@@ -33,3 +33,5 @@ Some key theories related to evolutionary psychology include:
 - [[Mismatch Theory]]
 - [[Error Management Theory]]
 - [[Framework of Fundamental Motives and Consumption]]
+
+- [[Consumption of Painful Activities]]
