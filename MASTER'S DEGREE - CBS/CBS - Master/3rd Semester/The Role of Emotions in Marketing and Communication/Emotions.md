@@ -16,7 +16,7 @@ However, there is no clear definition of emotions, but can be seen as *responses
 
 Emotions can be of short or long duration but they do not usually last as long as moods, and they have direct implications for behavior
 
-In both science and philosophy, cognitions (rational thinking) have historically dominated for hundreds of years. Emotions were criticised as being ‘irrational’, ‘distracting’ and ‘misleading’
+In both science and philosophy, tcognitions (rational thinking) have historically dominated for hundreds of years. Emotions were criticised as being ‘irrational’, ‘distracting’ and ‘misleading’
 
 ## Perspectives to Characterize Emotions
 The following perspectives exist to characterize the variety of affective predispositions:
